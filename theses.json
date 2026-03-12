@@ -1,0 +1,407 @@
+[
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Development of a distributed model predictive control framework for autonomous unmanned aerial vehicle swarms",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/5362",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Development of a quadcopter trajectory tracking control framework using reinforcement learning",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/10871",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Development of model predictive control schemes for unmanned aerial vehicles using neural networks",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/7775",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Model predictive control of a rotary inverted pendulum",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/10165",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη μεθόδων εκπαίδευσης αναδρομικών νευρωνικών δικτύων",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/5657",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη προσαρμοστικών μεθόδων για online εκπαίδευση νευρωνικών δικτύων τύπου radial basis function",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/1350",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη τεχνικών εκπαίδευσης νευρωνικών δικτύων ακτινικής συνάρτησης βάσης με τον αλγόριθμο Levenberg-Marquardt",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3272",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Αυτόματος έλεγχος περιστροφικού ανάστροφου εκκρεμούς",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6826",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Αυτόματος έλεγχος τετρακόπτερου με χρήση ελεγκτών PID για παρακολούθηση τροχιάς και αποφυγή εμποδίων",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/10955",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Μέθοδοι παραγωγής συνθετικών δεδομένων για την εκπαίδευση μοντέλων μηχανικής μάθησης σε προβλήματα ταξινόμησης πολλαπλών κλάσεων",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8809",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Μη γραμμικός αυτόματος έλεγχος για μη επανδρωμένα εναέρια οχήματα με τη μέθοδο backstepping",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3137",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Μοντελοποίηση δεδομένων θαλάσσιου κυματισμού με νευρωνικά δίκτυα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3130",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Τεχνικές εύρωστης εκμάθησης μετρικών σε χώρους πολλαπλότητας πινάκων συνδιακύμανσης για χρήση σε εφαρμογές ταξινόμησης προτύπων και μηχανικής μάθησης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6115",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Ανά ημερομηνία δημοσίευσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=dateissued",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Επιβλέποντες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=advisor",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Λέξεις-κλειδιά",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=subject",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Ακαδημαϊκά Τμήματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=department",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "Μεταπτυχιακά Προγράμματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=master",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=bcac3b57-6c6e-4b2e-b437-4818603ac4a4&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Open-source AI base for humanoid with kinect sensor in education context",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8947",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη διαδικτυακής εφαρμογής για τη διαχείριση έργων",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/740",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη διαδικτυακής εφαρμογής με αυτόματη προσαρμογή πολυμεσικού περιεχομένου, σε περιβάλλον συνεχούς ενσωμάτωσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3277",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Ανάπτυξη διαδικτυακής και φορητής εφαρμογής για την αυτό-αναφορά και τη χαρτογράφηση της συναισθηματικής κατάστασης του χρήστη",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/9191",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Σχεδιασμός και ανάπτυξη εκπαιδευτικών εφαρμογών για τη χρήση κοινωνικών ρομπότ (Softbank ΝΑΟ) στη Πρωτοβάθμια Εκπαίδευση",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/4057",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Σχεδιασμός και υλοποίηση εκπαιδευτικού αποθετηρίου για τεχνολογίες STEM",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/5491",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Σχεδιασμός και υλοποίηση εφαρμογών για αξιοποίηση ανθρωποειδών σε σχολικό περιβάλλον",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/5582",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Ανά ημερομηνία δημοσίευσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=dateissued",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Επιβλέποντες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=advisor",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Λέξεις-κλειδιά",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=subject",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Ακαδημαϊκά Τμήματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=department",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "Μεταπτυχιακά Προγράμματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=master",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=551a790f-7839-4cb4-bdcf-d791d5f5860c&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Βιώσιμες λύσεις έξυπνου σπιτιού με χρήση έξυπνων τηλεφώνων παρωχημένης τεχνολογίας",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/10029",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Δημιουργία τεχνητού μέλους κινούμενο από μικροεπεξεργαστή",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/7650",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Σχεδιασμός και υλοποίηση διαδικτυακής εφαρμογής για προγραμματισμό  ταξιδιών με ηλεκτρικό όχημα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/4851",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Ανά ημερομηνία δημοσίευσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=dateissued",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Επιβλέποντες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=advisor",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Λέξεις-κλειδιά",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=subject",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Ακαδημαϊκά Τμήματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=department",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "Μεταπτυχιακά Προγράμματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=master",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=ffb904f0-464d-4ecc-ae48-095581d1ca3a&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Ολιστικός σχεδιασμός «πράσινης» πόλης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/929",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Σχεδιασμός κατοικίας σχεδόν μηδενικής κατανάλωσης με στοιχεία βιοκλιματικής αρχιτεκτονικής",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/910",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Ανά ημερομηνία δημοσίευσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=dateissued",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Επιβλέποντες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=advisor",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Λέξεις-κλειδιά",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=subject",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Ακαδημαϊκά Τμήματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=department",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "Μεταπτυχιακά Προγράμματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=master",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=14c6d4ff-b888-4d30-b915-19511f90bcca&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "ΣΧΟΛΗ ΜΗΧΑΝΙΚΩΝ",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/6",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Τμήμα Ηλεκτρολόγων και Ηλεκτρονικών Μηχανικών",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/26",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Διπλωματικές εργασίες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Μελέτες προσομοίωσης μικροκυματικών διατάξεων υψηλής ισχύος",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/4696",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Ανά ημερομηνία δημοσίευσης",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=dateissued",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Επιβλέποντες",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=advisor",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Λέξεις-κλειδιά",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=subject",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Ακαδημαϊκά Τμήματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=department",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  },
+  {
+    "title": "Μεταπτυχιακά Προγράμματα",
+    "url": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?type=master",
+    "professor_page": "https://polynoe.lib.uniwa.gr/xmlui/handle/11400/52/browse?authority=7ec51753-7575-4c08-91b8-e1f88461de99&type=advisor"
+  }
+]
