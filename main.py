@@ -19,44 +19,31 @@ def get_all_theses():
 
         r = requests.get(url)
 
-        soup = BeautifulSoup(r.text, "html.parser")
+ from fastapi import FastAPI
+import json
 
-        links = soup.select("a[href*='/handle/11400/']")
+app = FastAPI()
 
-        if not links:
-            break
+with open("theses.json", encoding="utf-8") as f:
+    theses = json.load(f)
 
-        for link in links:
 
-            title = link.text.strip()
-
-            if len(title) > 10:
-
-                theses.append({
-                    "title": title,
-                    "url": BASE + link["href"]
-                })
-
-        offset += 20
-
-    return theses
+@app.get("/")
+def home():
+    return {"message": "UNIWA Thesis API running"}
 
 
 @app.get("/theses")
 def search_theses(keyword: str):
-
-    theses = get_all_theses()
 
     results = []
 
     for thesis in theses:
 
         if keyword.lower() in thesis["title"].lower():
-
             results.append(thesis)
 
     return {
         "keyword": keyword,
         "total": len(results),
         "results": results
-    }
