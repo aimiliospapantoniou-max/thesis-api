@@ -13,16 +13,18 @@ def home():
 
 
 @app.get("/theses")
-def search_theses(keyword: str):
+def search_theses(professor: str):
 
     results = []
 
     for thesis in theses:
-        if keyword.lower() in thesis["title"].lower():
+
+        if professor.lower() in str(thesis.get("professor", "")).lower():
+
             results.append(thesis)
 
     return {
-        "keyword": keyword,
+        "professor": professor,
         "total": len(results),
         "results": results
     }
