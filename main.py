@@ -1,9 +1,16 @@
 from fastapi import FastAPI
 import json
 
-app = FastAPI()
+app = FastAPI(
+    title="UNIWA Thesis API",
+    servers=[
+        {
+            "url": "https://thesis-api-7zdo.onrender.com"
+        }
+    ]
+)
 
-with open("theses.json", encoding="utf-8") as f:
+with open("theses.json", "r", encoding="utf-8") as f:
     theses = json.load(f)
 
 
@@ -19,7 +26,7 @@ def search_theses(professor: str):
 
     for thesis in theses:
 
-        if professor.lower() in str(thesis.get("professor", "")).lower():
+        if professor.lower() in thesis["professor"].lower():
 
             results.append(thesis)
 
