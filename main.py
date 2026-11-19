@@ -50,10 +50,19 @@ def search_theses(professor: str):
 
     for thesis in theses:
 
-        stored_name = normalize_name(thesis["professor"])
+        # Έλεγχος κύριου ονόματος
+        names_to_check = [thesis["professor"]]
 
-        if requested_name == stored_name:
-            results.append(thesis)
+        # Προσθήκη εναλλακτικών ονομάτων, εφόσον υπάρχουν
+        names_to_check.extend(thesis.get("aliases", []))
+
+        for name in names_to_check:
+
+            stored_name = normalize_name(name)
+
+            if requested_name == stored_name:
+                results.append(thesis)
+                break
 
     return {
         "professor": professor,
