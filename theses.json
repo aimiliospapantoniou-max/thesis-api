@@ -1,2267 +1,4995 @@
 [
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Model predictive control of a rotary inverted pendulum",
     "title2": "Προβλεπτικός έλεγχος περιστροφικού ανάστροφου εκκρεμούς"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Synthetic data generation techniques for training machine learning-based models in multiclass classification problems",
     "title2": "Μέθοδοι παραγωγής συνθετικών δεδομένων για την εκπαίδευση μοντέλων μηχανικής μάθησης σε προβλήματα ταξινόμησης πολλαπλών κλάσεων"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Ανάπτυξη ενός πλαισίου κατανεμημένου προβλεπτικού ελέγχου για σμήνη αυτόνομων μη επανδρωμένων εναέριων οχημάτων",
     "title2": "Development of a distributed model predictive control framework for autonomous unmanned aerial vehicle swarms"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Ανάπτυξη σχημάτων προβλεπτικού ελέγχου για μη-επανδρωμένα εναέρια οχήματα με χρήση νευρωνικών δικτύων",
     "title2": "Development of model predictive control schemes for unmanned aerial vehicles using neural networks"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Automatic control of quadcopter using PID controllers for trajectory tracking and obstacle avoidance",
     "title2": "Αυτόματος έλεγχος τετρακόπτερου με χρήση ελεγκτών PID για παρακολούθηση τροχιάς και αποφυγή εμποδίων"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Development of radial basis function neural network training techniques based on the Levenberg-Marquardt algorithm",
     "title2": "Ανάπτυξη τεχνικών εκπαίδευσης νευρωνικών δικτύων ακτινικής συνάρτησης βάσης με τον αλγόριθμο Levenberg-Marquardt"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Automatic control of a rotary inverted pendulum",
     "title2": "Αυτόματος έλεγχος περιστροφικού ανάστροφου εκκρεμούς"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Development of training methods for recurrent neural networks",
     "title2": "Ανάπτυξη μεθόδων εκπαίδευσης αναδρομικών νευρωνικών δικτύων"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Development of adaptive methods for online training of radial basis function neural networks",
     "title2": "Ανάπτυξη προσαρμοστικών μεθόδων για online εκπαίδευση νευρωνικών δικτύων τύπου radial basis function"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Sea wave data modelling using neural networks",
     "title2": "Μοντελοποίηση δεδομένων θαλάσσιου κυματισμού με νευρωνικά δίκτυα"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Nonlinear automatic control for unmanned aerial vehicles using backstepping",
     "title2": "Μη γραμμικός αυτόματος έλεγχος για μη επανδρωμένα εναέρια οχήματα με τη μέθοδο backstepping"
   },
   {
     "professor": "Alexandridis, Alex",
+    "aliases": [
+      "Αλεξανδρίδης, Αλέξ",
+      "Αλέξ Αλεξανδρίδης",
+      "Alex Alexandridis",
+      "Alexandridis, Alex"
+    ],
     "title": "Ανάπτυξη συστήματος ελέγχου για παρακολούθηση τροχιάς  τετρακόπτερου με χρήση ενισχυτικής μάθησης",
     "title2": "Development of a quadcopter trajectory tracking control framework using reinforcement learning"
   },
   {
     "professor": "Christakis, Ioannis",
+    "aliases": [
+      "Χριστάκης, Ιωάννης",
+      "Ιωάννης Χριστάκης",
+      "Ioannis Christakis",
+      "Christakis, Ioannis"
+    ],
     "title": "Study, design and development of a low-cost interconnected system for  recording system performance measurements and alarm notifications in the  cloud, in a commercial hybrid (off-grid) inverter-battery set",
     "title2": "Μελέτη, σχεδιασμός και ανάπτυξη διασυνδεδεμένου συστήματος χαμηλού κόστους για την καταγραφή σε cloud μετρήσεων απόδοσης του συστήματος και ειδοποιήσεων alarm, σε εμπορικό υβριδικό σετ (off-grid) inverter μπαταρίας"
   },
   {
     "professor": "Christakis, Ioannis",
+    "aliases": [
+      "Χριστάκης, Ιωάννης",
+      "Ιωάννης Χριστάκης",
+      "Ioannis Christakis",
+      "Christakis, Ioannis"
+    ],
     "title": "Design and implementation of an economical long-range smart home using LoRa and programmable controllers",
     "title2": "Μελέτη και υλοποίηση ενός οικονομικού και μεγάλης εμβέλειας έξυπνου σπιτιού με χρήση LoRa και προγραμματιζόμενων ελεγκτών"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Develop a web application for online project management",
     "title2": "Ανάπτυξη διαδικτυακής εφαρμογής για τη διαχείριση έργων"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Design & implementation of educational applications for the use of social assistive robots (Softbank NAO) in Primary Education",
     "title2": "Σχεδιασμός και ανάπτυξη εκπαιδευτικών εφαρμογών για τη χρήση κοινωνικών ρομπότ (Softbank ΝΑΟ) στη Πρωτοβάθμια Εκπαίδευση"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Design and implementation of an educational repository for STEM technologies",
     "title2": "Σχεδιασμός και υλοποίηση εκπαιδευτικού αποθετηρίου για τεχνολογίες STEM"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Design & implementation of applications to deploy humanoids in schools",
     "title2": "Σχεδιασμός και υλοποίηση εφαρμογών για αξιοποίηση ανθρωποειδών σε σχολικό περιβάλλον"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Development of a web application for automated multimedia adaptation, deploying continuous integration",
     "title2": "Ανάπτυξη διαδικτυακής εφαρμογής με αυτόματη προσαρμογή πολυμεσικού περιεχομένου, σε περιβάλλον συνεχούς ενσωμάτωσης"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "Design and implementation of a web & mobile application for user emotion self-reporting and affective cartography",
     "title2": "Ανάπτυξη διαδικτυακής και φορητής εφαρμογής για την αυτό-αναφορά και τη χαρτογράφηση της συναισθηματικής κατάστασης του χρήστη"
   },
   {
     "professor": "Feidakis, Michalis",
+    "aliases": [
+      "Φειδάκης, Μιχάλης",
+      "Μιχάλης Φειδάκης",
+      "Michalis Feidakis",
+      "Feidakis, Michalis"
+    ],
     "title": "ΤΝ ανοικτού κώδικα για ανέπαφη αλληλεπίδραση ανθρωποειδών με αισθητήρα Kinect σε εκπαιδευτικό πλαίσιo",
     "title2": "Open-source AI base for humanoid with kinect sensor in education context"
   },
   {
     "professor": "Galata, Sotiria",
+    "aliases": [
+      "Γαλατά, Σωτηρία",
+      "Σωτηρία Γαλατά",
+      "Sotiria Galata",
+      "Galata, Sotiria"
+    ],
     "title": "Design and development of an autonomous robot for wireless transmission of environmental data",
     "title2": "Σχεδίαση και ανάπτυξη αυτόνομου ρομπότ για ασύρματη μετάδοση περιβαλλοντικών δεδομένων"
   },
   {
     "professor": "Galata, Sotiria",
+    "aliases": [
+      "Γαλατά, Σωτηρία",
+      "Σωτηρία Γαλατά",
+      "Sotiria Galata",
+      "Galata, Sotiria"
+    ],
     "title": "Creation of artificial member driven by microprocessor",
     "title2": "Δημιουργία τεχνητού μέλους κινούμενο από μικροεπεξεργαστή"
   },
   {
     "professor": "Galata, Sotiria",
+    "aliases": [
+      "Γαλατά, Σωτηρία",
+      "Σωτηρία Γαλατά",
+      "Sotiria Galata",
+      "Galata, Sotiria"
+    ],
     "title": "Sustainable smart home solutions using obsolete smartphones",
     "title2": "Βιώσιμες λύσεις έξυπνου σπιτιού με χρήση έξυπνων τηλεφώνων παρωχημένης τεχνολογίας"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γιώργος",
+      "Γιώργος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Holistic planning of «green» city",
     "title2": "Ολιστικός σχεδιασμός «πράσινης» πόλης"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γιώργος",
+      "Γιώργος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Residential nzeb (nearly zero energy building) design with elements of bioclimatic architecture",
     "title2": "Σχεδιασμός κατοικίας σχεδόν μηδενικής κατανάλωσης με στοιχεία βιοκλιματικής αρχιτεκτονικής"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Helmet detection using computer vision on the Coral TPU platform",
     "title2": "Αναγνώριση και εντοπισμός κράνους με τη χρήση υπολογιστικής όρασης στην πλατφόρμα Coral TPU"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Ενοποίηση και αξιολόγηση της πλατφόρμας JAX σε νευρωνικές μονάδες επεξεργασίας",
     "title2": "Integration and evaluation of JAX framework on neural processing units"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Assessment of transformer networks on neural and hybrid processing platforms",
     "title2": "Αξιολόγηση μετασχηματιστών τεχνητής νοημοσύνης σε νευρωνικούς και υβριδικούς επεξεργαστές"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "A comprehensive survey, taxonomy, and comparison of accelerated large language models",
     "title2": "Συστηματική ανάλυση και σύγκριση μεθόδων επιτάχυνσης μεγάλων γλωσσικών μοντέλων"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Machine learning optimization on embedded systems for predicting epileptic seizures using EEG signals",
     "title2": "Βελτιστοποίηση μηχανικής μάθησης σε ενσωματωμένα συστήματα για την πρόβλεψη επιληπτικών κρίσεων χρησιμοποιώντας σήματα EEG"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Design and implementation of a wireless rearview camera system with computer vision",
     "title2": "Σχεδιασμός και υλοποίηση ασύρματης κάμερας οπισθοπορείας με μηχανική όραση"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Επιτάχυνση αλγορίθμων μηχανικής μάθησης σε νευρωνικούς επεξεργαστές",
     "title2": "Acceleration of machine learning algorithms on AI engines"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Pill defect detection in blister packs using computer vision algorithms",
     "title2": "Ανίχνευση ελαττωμάτων χαπιών σε συσκευασίες κυψελών με χρήση αλγορίθμων μηχανικής όρασης"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Free parking spot detection using computer vision",
     "title2": "Αυτόματη αναγνώριση θέσης στάθμευσης με την χρήση μηχανικής μάθησης"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Smart parking system",
     "title2": "Έξυπνο σύστημα στάθμευσης"
   },
   {
     "professor": "Kachris, Christoforos",
+    "aliases": [
+      "Κακχρής, Χριστόφορος",
+      "Χριστόφορος Κακχρής",
+      "Christoforos Kachris",
+      "Kachris, Christoforos"
+    ],
     "title": "Design and development of an IoT device for monitoring recently burned forest area",
     "title2": "Μελέτη και ανάπτυξη ΙοΤ συσκευής επιτήρησης πρόσφατα καμένης δασικής έκτασης"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Διερεύνηση της ενσωμάτωσης αισθητήριων συστημάτων σε δομές μέσω τρισδιάστατης εκτύπωσης",
     "title2": "Investigation of integration of sensory systems in structures via three-dimensional printing"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "3D printing in biomedicine. Investigation of hip fabrication and applications with biomaterials",
     "title2": "Τρισδιάστατη εκτύπωση στη βιοϊατρική. Διερεύνηση κατασκευής ισχίου και εφαρμογών με βιοϋλικα"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Wind turbine failures. Causes and avoidance strategies",
     "title2": "Καταστροφές σε ανεμογεννήτριες. Λόγοι και πιθανοί τρόποι αποφυγής"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Monitoring of renewable energy sources with sensor systems",
     "title2": "Παρακολούθηση υποδομών ανανεώσιμων πηγών ενέργειας με συστήματα αισθητήρων"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "A comparative study of the offshore wind farms in the European Union",
     "title2": "Συγκριτική μελέτη υπεράκτιων αιολικών πάρκων μεταξύ κρατών της Ευρωπαϊκής Ένωσης"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Properties, uses and applications of SF6 Insulating gas",
     "title2": "Ιδιότητες, χρήσεις και εφαρμογές του ηλεκτρομονωτικού αερίου SF6"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Security and resilience of critical infrastructure in the electrical energy sector",
     "title2": "Ασφάλεια και ανθεκτικότητα κρίσιμων υποδομών στον τομέα της ηλεκτρικής ενέργειας"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Monitoring and analysis of lightning effects on wind turbines",
     "title2": "Παρακολούθηση και ανάλυση των επιπτώσεων κεραυνών σε ανεμογεννήτριες"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Life cycle assessment (LCA) of offshore wind farms: from construction to end of life",
     "title2": "Ανάλυση κύκλου ζωής (LCA) υπεράκτιων αιολικών πάρκων: από την κατασκευή έως το τέλος ζωής"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Biomass viability study",
     "title2": "Μελέτη βιωσιμότητας βιομάζας"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Life cycle analysis (LCA) of offshore wind farms",
     "title2": "Ανάλυση κύκλου ζωής (LCA) σε υπεράκτια αιολικά πάρκα"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Comparison of the environmental footprint between a PV and a geothermal system via the LCA method",
     "title2": "Σύγκριση περιβαλλοντικού αποτυπώματος μεταξύ φ/β και συστήματος γεωθερμίας με τη μέθοδο LCA"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Comparative evaluation and analysis of modeling software usage versus conventional methods in electrical installation projects: Impact on site organization, cost reduction, and implementation time",
     "title2": "Συγκριτική αξιολόγηση και ανάλυση της χρήσης προγραμμάτων μοντελοποίησης σε σύγκριση με συμβατικές μεθόδους σε έργα ηλεκτρολογικών εγκαταστάσεων: Επίδραση στην οργάνωση του εργοταξίου, μείωση κόστους και χρόνου στην υλοποίηση ηλεκτρολογικών εγκαταστάσεων"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Life cycle assessment of a solar power plant: evaluation of environmental impact and stability factors",
     "title2": "Ανάλυση κύκλου ζωής φωτοβολταϊκού πάρκου: εκτίμηση περιβαλλοντικών επιπτώσεων και δεικτών βιωσιμότητας"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Life cycle assessment (LCA) in offshore wind farm",
     "title2": "Ανάλυση κύκλου ζωής (LCA) σε υπεράκτια αιολικά πάρκα"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Παρακολούθηση καταπονήσεων σε πτωματικά μηριαία οστά με προσθετικά στελέχη από κράματα τιτανίου",
     "title2": "Monitoring the strains on cadaveric femoral bones with titanium alloy prosthetic stems"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Weather protection of wind farms with Fiber Bragg Grating sensor networks",
     "title2": "Προστασία αιολικών πάρκων από καιρικές συνθήκες με δίκτυα αισθητήρων Fiber Bragg Grating"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Development of a low-cost device based on Arduino for measuring the electrical conductivity of samples of various solid materials made by three-dimensional (3D) printing",
     "title2": "Ανάπτυξη συσκευής χαμηλού κόστους με βάση το Arduino για τη μέτρηση της ηλεκτρικής αγωγιμότητας δειγμάτων διαφόρων στερεών υλικών κατασκευασμένων με τρισδιάστατη (3D) εκτύπωση"
   },
   {
     "professor": "kalkanis, konstantinos",
+    "aliases": [
+      "Καλκάνης, Κωνσταντίνος",
+      "Κωνσταντίνος Καλκάνης",
+      "konstantinos kalkanis",
+      "kalkanis, konstantinos"
+    ],
     "title": "Lifecycle of an electric vehicle",
     "title2": "Κύκλος ζωής ηλεκτρικών αυτοκινήτων"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Ανάπτυξη βιοϊατρικής διάταξης με τεχνολογία τυπωμένων ηλεκτρονικών",
     "title2": "Development of a biomedical device with printed electronics technology"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Εκτατός και φορητός τυπωμένος αισθητήρας για παρακολούθηση κίνησης του ανθρώπινου σώματος",
     "title2": "Stretchable and wearable printed sensor for human body motion monitoring"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Design and development of a BLDC motor driver circuit for optimal energy efficiency and reliability",
     "title2": "Σχεδιασμός και ανάπτυξη κυκλώματος οδήγησης BLDC κινητήρα για βέλτιστη ενεργειακή απόδοση και αξιοπιστία"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Development of a portable spirometer utilizing printed technologies",
     "title2": "Ανάπτυξη φορητού σπιρομέτρου με χρήση τεχνολογιών εκτύπωσης"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Development of 2D resistor grid touch sensor and integrated user interface environment",
     "title2": "Ανάπτυξη δισδιάστατου αισθητήρα αφής με πλέγμα αντιστατών και ολοκληρωμένου περιβάλλοντος διεπαφής χρήστη"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Development of an integrated flow control system utilizing microcontrollers",
     "title2": "Ανάπτυξη ολοκληρωμένου συστήματος ελέγχου ροής με διατάξεις μικροελεγκτών"
   },
   {
     "professor": "Kaltsas, Grigoris",
+    "aliases": [
+      "Κάλτσας, Γρηγόρης",
+      "Γρηγόρης Κάλτσας",
+      "Grigoris Kaltsas",
+      "Kaltsas, Grigoris"
+    ],
     "title": "Development of LAB on PCB diagnostic device",
     "title2": "Ανάπτυξη διαγνωστικής διάταξης LAB on PCB"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an automated system for the acquisition, transmission and processing of data for agricultural applications",
     "title2": "Σχεδίαση και ανάπτυξη αυτοματοποιημένου συστήματος συλλογής, μετάδοσης και επεξεργασίας δεδομένων για γεωργικές εφαρμογές"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design, development and programmable, artificial intelligence control robotic system for safety applications",
     "title2": "Σχεδίαση, ανάπτυξη και προγραμματιζόμενος, μέσω τεχνητής νοημοσύνης έλεγχος ρομποτικού συστήματος για εφαρμογές ασφάλειας"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of a robotic arm system for pick and place applications",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος ρομποτικού βραχίονα για εφαρμογές συναρμολόγησης"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Active vehicle suspension control",
     "title2": "Έλεγχος ενεργητικής ανάρτησης οχημάτων"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Έλεγχος κίνησης ρομποτικού οχήματος μέσω ηλεκτρο-εγκεφαλικών σημάτων",
     "title2": "Robot motion control via EEG signals"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an automated camera slider system",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος αυτοματοποιημένου ελέγχου κίνησης ψηφιακής κάμερας"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Βελτιστοποίηση διαδρομής πλοίων με βάση τις καιρικές συνθήκες",
     "title2": "Vessel route optimization based on weather conditions"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Development of a robotic vehicle for the guidance of people with ith visual impairments",
     "title2": "Ανάπτυξη ρομποτικού οχήματος καθοδήγησης ατόμων με προβλήματα όρασης"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of automated domestic control system using PLC and SCADA",
     "title2": "Σχεδίαση και ανάπτυξη αυτοματοποιημένου ελέγχου οικιακών λειτουργιών με τη χρήση PLC και SCADA"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Ανάπτυξη και ηλεκτρομυογραφικός έλεγχος βιονικού ρομποτικού χεριού μέσω νευρωνικού δικτύου για την αναγνώριση χειρονομιών",
     "title2": "Development and electromyographic control of a bionic robotic arm via a neural network for gesture recognition"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of a portable system for the automatic tuning of basic stringed musical instruments",
     "title2": "Σχεδίαση και ανάπτυξη φορητού συστήματος για το αυτόματο κούρδισμα βασικών έγχορδων μουσικών οργάνων"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Σχεδίαση και ανάπτυξη έξυπνου συστήματος υποστήριξης της βάδισης για άτομα με προβλήματα όρασης",
     "title2": "Design and development of a smart walking support system for people with visual impairments"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and simulation of an articulated robotic arm using ROS and MoveIt",
     "title2": "Σχεδίαση και προσομοίωση αρθρωτού ρομποτικού βραχίονα με χρήση ROS και MoveIt"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Development and programmable control of a robotic vehicle",
     "title2": "Σχεδίαση, ανάπτυξη και προγραμματιζόμενος έλεγχος τροχοφόρου ρομποτικού οχήματος"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of a system for the automated control of hydraulic systems",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος αυτοματοποιημένου ελέγχου υδραυλικών συστημάτων"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an automatic control system for the tuning of  guitar strings",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος αυτομάτου ελέγχου του συντονισμού των χορδών κιθάρας"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design, development and programmable control of an anthropomorphic robotic arm",
     "title2": "Σχεδίαση, ανάπτυξη και προγραμματιζόμενος έλεγχος ενός ανθρωπόμορφου ρομποτικού βραχίονα"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an automated access control system with identity verification",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος αυτοματοποιημένου ελέγχου πρόσβασης σε χώρους με διακρίβωση ταυτοπροσωπίας"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an automated system for the supervision and guidance of runners",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος αυτοματοποιημένης επίβλεψης και καθοδήγησης δρομέων"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of precision agriculture system by using IoT technologies",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος γεωργίας ακριβείας με εφαρμογή τεχνολογιών του διαδικτύου των πραγμάτων"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Development and control of a quadcopter",
     "title2": "Ανάπτυξη και έλεγχος τετρακόπτερου"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design, development and programmable control of an anthropomorphic robotic arm",
     "title2": "Σχεδίαση, ανάπτυξη και προγραμματιζόμενος έλεγχος ανθρωπόμορφου ρομποτικού χεριού"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Design and development of an upper limb kinesiology system via electromyography",
     "title2": "Σχεδίαση και ανάπτυξη συστήματος κινησιολογίας άνω άκρων μέσω ηλεκτρομυογραφίας"
   },
   {
     "professor": "Kandris, Dionisis",
+    "aliases": [
+      "Κάνδρης, Διονύσης",
+      "Διονύσης Κάνδρης",
+      "Dionisis Kandris",
+      "Kandris, Dionisis"
+    ],
     "title": "Computer-aided robot simulation",
     "title2": "Προσομοίωση ρομπότ μέσω υπολογιστή"
   },
   {
     "professor": "Karabetsos, Sotiris",
+    "aliases": [
+      "Καραβέτσος, Σωτήρης",
+      "Σωτήρης Καραβέτσος",
+      "Sotiris Karabetsos",
+      "Karabetsos, Sotiris"
+    ],
     "title": "Development of telecommunication Sud-Systems with ZedBoard Zynq-7000 ARM/FPGA SoC development board and RF evaluation board AD-FMCOMMS2/3/4/5 FMC",
     "title2": "Ανάπτυξη τηλεπικοινωνιακών υποσυστημάτων σε FPGA με την αναπτυξιακή πλατφόρμα ZedBoard Zynq-7000 ARM/FPGA SoC και την RF αναπτυξιακή πλακέτα AD-FMCOMMS2/3/4/5 FMC"
   },
   {
     "professor": "Karabetsos, Sotiris",
+    "aliases": [
+      "Καραβέτσος, Σωτήρης",
+      "Σωτήρης Καραβέτσος",
+      "Sotiris Karabetsos",
+      "Karabetsos, Sotiris"
+    ],
     "title": "Design of FM transmitter with integrate stereo modulation power 100w",
     "title2": "Κατασκευή ραδιοπομπού FΜ με ενσωματωμένο σύστημα στερεοφωνικής διαμόρφωσης μέσης ισχύος 100W"
   },
   {
     "professor": "Karabetsos, Sotiris",
+    "aliases": [
+      "Καραβέτσος, Σωτήρης",
+      "Σωτήρης Καραβέτσος",
+      "Sotiris Karabetsos",
+      "Karabetsos, Sotiris"
+    ],
     "title": "Study and implementation of the OTFS (Orthogonal Time-Frequency Space) modulation scheme",
     "title2": "Μελέτη και υλοποίηση της διαμόρφωσης OTFS (Orthogonal Time-Frequency Space)"
   },
   {
     "professor": "Karabetsos, Sotiris",
+    "aliases": [
+      "Καραβέτσος, Σωτήρης",
+      "Σωτήρης Καραβέτσος",
+      "Sotiris Karabetsos",
+      "Karabetsos, Sotiris"
+    ],
     "title": "Design and implementation of a remote-controlled car via mobile phone",
     "title2": "Σχεδίαση και υλοποίηση τηλεκατευθυνόμενου αυτοκίνητου μέσω τηλεφώνου"
   },
   {
     "professor": "Karagiannopoulos, Panagiotis",
+    "aliases": [
+      "Καραγιαννόπουλος, Παναγιώτης",
+      "Παναγιώτης Καραγιαννόπουλος",
+      "Panagiotis Karagiannopoulos",
+      "Karagiannopoulos, Panagiotis"
+    ],
     "title": "Analysis of environmental impacts on critical-infrastructure power transformers",
     "title2": "Ανάλυση περιβαλλοντικών επιπτώσεων σε μετασχηματιστές ισχύος κρίσιμων υποδομών"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study and construction of three phase inverter for controlling three phase induction motor",
     "title2": "Μελέτη και κατασκευή τριφασικού αντιστροφέα για τον έλεγχο τριφασικού επαγωγικού κινητήρα"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study of three-phase synchronous generator - Interconnection to constant voltage micronet",
     "title2": "Μελέτη σύγχρονης τριφασικής γεννήτριας - Διασύνδεση σε μικροδίκτυο συνεχούς τάσης"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study of asynchronous three-phase motor",
     "title2": "Μελέτη ασύγχρονου τριφασικού κινητήρα"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study of dc motors",
     "title2": "Μελέτη κινητήρων συνεχούς ρεύματος"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Full autonomy of a household through a photovoltaic system",
     "title2": "Πλήρης αυτονομία οικιακής κατοικίας μέσω φωτοβολταϊκού συστήματος"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Dynamic analysis of a synchronous generator",
     "title2": "Δυναμική ανάλυση σύγχρονης γεννήτριας"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Modeling and dynamic analysis of a direct current external excitation motor",
     "title2": "Μοντελοποίηση και δυναμική ανάλυση κινητήρα συνεχούς ρεύματος ξένης διέγερσης"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study of the synchronous three-phase generator",
     "title2": "Μελέτη σύγχρονης τριφασικής γεννήτριας"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Comparative analysis of electric motors in transportation applications",
     "title2": "Συγκριτική ανάλυση των ηλεκτρικών μηχανών σε εφαρμογές μεταφοράς"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Design and implementation of direct current motor controller",
     "title2": "Μελέτη και κατασκευή διάταξης ελέγχου ηλεκτροκινητήρα συνεχούς ρεύματος"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Modeling of three-phase synchronous generator",
     "title2": "Μοντελοποίηση σύγχρονης τριφασικής γεννήτριας"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Design and simulation of three-phase asynchronous motor",
     "title2": "Μελέτη και προσομοίωση ασύγχρονου τριφασικού κινητήρα"
   },
   {
     "professor": "Karaisas, Petros",
+    "aliases": [
+      "Καραϊσας, Πέτρος",
+      "Πέτρος Καραϊσας",
+      "Petros Karaisas",
+      "Karaisas, Petros"
+    ],
     "title": "Study of asynchronous three - phase motor",
     "title2": "Μελέτη ασύγχρονου τριφασικού κινητήρα"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Design and development of smart contracts and distributed applications (Dapps) in Ethereum network",
     "title2": "Σχεδιασμός και ανάπτυξη έξυπνων συμβολαίων και κατανεμημένων εφαρμογών σε Ethereum Blockchain"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "An NFT-based user reputation system for an online Blockchain-based game",
     "title2": "Υποστήριξη συστήματος αξιολόγησης χρηστών σε ένα παιχνίδι με εφαρμογή μοναδικών χαρακτηριστικών (NFTs) σε ένα δίκτυο Blockchain"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "A blockchain-based service for transaction confirmation in EVM environments",
     "title2": "Υπηρεσία επιβεβαίωσης συναλλαγών σε δίκτυα Blockchain που βασίζονται σε EVM"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Smart contracts and NFTs: Application study, technological framework, and creation process",
     "title2": "Έξυπνα συμβόλαια και NFTs: Μελέτη εφαρμογής, τεχνολογικό πλαίσιο και διαδικασία δημιουργίας"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Use of blockchain technology in education",
     "title2": "Η χρήση της τεχνολογίας του blockchain στο εκπαιδευτικό σύστημα"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Study, development and use of Non-Fungible Tokens (NFT)",
     "title2": "Μελέτη, δημιουργία και χρήση μη εμπορεύσιμων ψηφιακών μαρκών (NFT)"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Study and analysis of consensus techniques in blockchain networks",
     "title2": "Μελέτη και ανάλυση των τεχνικών συναίνεσης σε δίκτυα Blockchain"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Αξιολόγηση και χαρακτηριστικά των προτύπων υλοποίησης αποκεντρωμένων χαρακτηριστικών",
     "title2": "Evaluation and characteristics of the development standards for decentralized identities (DIDs)"
   },
   {
     "professor": "Kogias, Dimitrios",
+    "aliases": [
+      "Κόγιας, Δημήτριος",
+      "Δημήτριος Κόγιας",
+      "Dimitrios Kogias",
+      "Kogias, Dimitrios"
+    ],
     "title": "Using distributed ledger technology for data storage of an internet of things system",
     "title2": "Χρήση της τεχνολογίας κατανεμημένου καθολικού για αποθήκευση δεδομένων ενός συστήματος του διαδικτύου των πραγμάτων"
   },
   {
     "professor": "Kontargyri, Vassiliki",
+    "aliases": [
+      "Κονταργύρη, Βασιλική",
+      "Βασιλική Κονταργύρη",
+      "Vassiliki Kontargyri",
+      "Kontargyri, Vassiliki"
+    ],
     "title": "Test and measurement of medium voltage electrical equipment",
     "title2": "Δοκιμές και μετρήσεις σε ηλεκτρολογικό εξοπλισμό μέσης τάσης"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Design and implementation of a web application for breast tumors classification through convolutional neural networks",
     "title2": "Σχεδιασμός και υλοποίηση διαδικτυακής εφαρμογής για την κατηγοριοποίηση όγκων του μαστού με χρήση συνελικτικών νευρωνικών δικτύων"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Ανάπτυξη ηλεκτρονικού συστήματος ασφαλούς διαχείρισης αρχείων υγείας με χρήση της τεχνολογίας Blockchain",
     "title2": "Development of an electronic system for the safe management of health records using Blockchain technology"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "ΙοΤ data immutability by using Distributed Ledger Technology (DLT)",
     "title2": "Προστασία δεδομένων από μεταβολές στο διαδίκτυο των πραγμάτων με χρήση της τεχνολογίας κατανεμημένου κατάστιχου (DLT)"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Smart energy monitoring and management based on internet of things technology in autonomous (off-grid) homes",
     "title2": "Έξυπνη παρακολούθηση και διαχείριση ενέργειας με βάση την τεχνολογία του διαδικτύου των πραγμάτων σε αυτόνομες (off-grid) οικίες"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Analysis and comparison of aggregation algorithms for optimizing federated learning techniques in cross-silo scenarios",
     "title2": "Ανάλυση και σύγκριση αλγορίθμων συσσωμάτωσης για βελτιστοποίηση τεχνικών ομοσπονδιακής μάθησης σε cross-silo σενάρια"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Design of a smart parking platform using NB-IoT Technology",
     "title2": "Σχεδιασμός πλατφόρμας έξυπνου χώρου στάθμευσης με χρήση της τεχνολογίας NB-IoT"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Analysis and comparison of consensus mechanisms in Blockchain environment",
     "title2": "Ανάλυση και σύγκριση μηχανισμών συναίνεσης σε Blockchain περιβάλλον"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Internet of things system for collecting, storing and visualizing biometric data from smart wearable devices",
     "title2": "Σύστημα διαδικτύου των πραγμάτων για τη συλλογή, αποθήκευση και οπτικοποίηση βιομετρικών δεδομένων από έξυπνες φορετές συσκευές"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Smart access control system for stores using NB-IoT technologies",
     "title2": "Έξυπνο σύστημα ελέγχου πρόσβασης για καταστήματα με χρήση τεχνολογιών NB-IoT"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Computational intelligence techniques in email spam filtering",
     "title2": "Τεχνικές υπολογιστικής νοημοσύνης στο φιλτράρισμα ανεπιθύμητων μηνυμάτων ηλεκτρονικού ταχυδρομείου"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Design and implementation of a high-availability cloud system with Kubernetes",
     "title2": "Σχεδιασμός και υλοποίηση συστήματος υψηλής διαθεσιμότητας στο υπολογιστικό νέφος με Kubernetes"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Content management system (CMS) Wordpress by using Google Cloud Platform (GCP) service",
     "title2": "Πλατφόρμα διαχείρισης περιεχομένου Wordpress με την χρήση της υπηρεσίας Google Cloud Platform (GCP)"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "Design and implementation of a web application for planning trips with an  electric vehicle",
     "title2": "Σχεδιασμός και υλοποίηση διαδικτυακής εφαρμογής για προγραμματισμό  ταξιδιών με ηλεκτρικό όχημα"
   },
   {
     "professor": "Koulouras, Grigorios",
+    "aliases": [
+      "Κουλούρας, Γρηγόριος",
+      "Γρηγόριος Κουλούρας",
+      "Grigorios Koulouras",
+      "Koulouras, Grigorios"
+    ],
     "title": "An interactive learning platform for Docker technology",
     "title2": "Διαδραστική πλατφόρμα εκμάθησης της τεχνολογίας Docker"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "PMU placement in electrical power transmission systems considering  channel limitations",
     "title2": "Τοποθέτηση μονάδων μετρήσεων φασιθετών με περιορισμένο αριθμό καναλιών σε συστήματα μεταφοράς ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Quantification of climatic factors affecting the critical  energy infrastructure resilience",
     "title2": "Ποσοτικοποίηση κλιματικών παραγόντων που επηρεάζουν την ανθεκτικότητα των κρίσιμων υποδομών ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Optimal placement of electric vehicle charging stations in power distribution networks",
     "title2": "Βέλτιστη τοποθέτηση σταθμών φόρτισης ηλεκτροκίνητων οχημάτων σε δίκτυα διανομής ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Optical placement of PMUs and PDCs in smart grids",
     "title2": "Βέλτιστη τοποθέτηση μονάδων μέτρησης φασιθετών και συγκεντρωτών συγχρονισμένων δεδομένων σε έξυπνα δίκτυα ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Impact of cyber attacks on power system state estimators",
     "title2": "Επίδραση κυβερνοεπιθέσεων σε εκτιμητές κατάστασης συστημάτων ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Determination of fault location and resistance in power transmission lines",
     "title2": "Προσδιορισμός της θέσης και της αντίστασης σφάλματος σε γραμμές μεταφοράς ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Study of e-waste stream and rare earths’ recycling",
     "title2": "Μελέτη ροής αποβλήτων ηλεκτρικού και ηλεκτρονικού εξοπλισμού και ανακύκλωση σπάνιων γαιών"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Statistical analysis of the results concerning the transition from technological to university education level",
     "title2": "Στατιστική ανάλυση των αποτελεσμάτων της μετάβασης από την τεχνολογική στη πανεπιστημιακή εκπαίδευση"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Study of a biomass power plant in the plateau of Domokos municipality",
     "title2": "Μελέτη μονάδας παραγωγής ηλεκτρικής ενέργειας από βιομάζα στο οροπέδιο του Δήμου Δομοκού"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Ecological footprint from the management and recycling of electric household appliances. Materials and compatibility with ecology and reuse",
     "title2": "Οικολογικό αποτύπωμα από τη διαχείριση και την ανακύκλωση ηλεκτρικών οικιακών συσκευών. Υλικά και συμβατότητα με την οικολογία και την επαναχρησιμοποίηση"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Resilience of the power system against earthquakes",
     "title2": "Ανθεκτικότητα συστήματος ηλεκτρικής ενέργειας έναντι σεισμών"
   },
   {
     "professor": "Manousakis, Nikolaos",
+    "aliases": [
+      "Μανούσακης, Νικόλαος",
+      "Νικόλαος Μανούσακης",
+      "Nikolaos Manousakis",
+      "Manousakis, Nikolaos"
+    ],
     "title": "Reliable PMU networking with an emphasis on ensuring the observability of the power system",
     "title2": "Αξιόπιστη δικτύωση PMU με έμφαση στη διασφάλιση της παρατηρησιμότητας του ΣΗΕ"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Developing software for board game",
     "title2": "Ανάπτυξη λογισμικού για μοντέλο επιτραπέζιου παιχνιδιού"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Development of strategy game with educational purposes",
     "title2": "Ανάπτυξη παιχνιδιού στρατηγικής με εκπαιδευτικό σκοπό"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Development of a simplified version of the multi-player board-game Dominion in Python and implementation of an unsupervised machine  learning algorithm for a player AI agent",
     "title2": "Ανάπτυξη μοντέλου απλοποιημένου επιτραπέζιου παιχνιδιού πολλών χρηστών Dominion σε Python και υλοποίηση αλγορίθμου τεχνητής νοημοσύνης αυτο-εκμάθησης ενός τεχνητού παίκτη"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Development of a simplified model of the board game Dominion, on the Unity development platform and implementation of multiple AI opponents",
     "title2": "Ανάπτυξη μοντέλου απλοποιημένου επιτραπέζιου παιχνιδιού Dominion, στην αναπτυξιακή πλατφόρμα παιχνιδιών Unity και υλοποίηση πολλαπλών αντιπάλων τεχνητής νοημοσύνης"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Developing an educational game in python and ai algorithm for the mechanical players",
     "title2": "Ανάπτυξη εκπαιδευτικού παιχνιδιού σε python και αλγορίθμου τεχνητής νοημοσύνης για τους μηχανικούς παίκτες"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Creation of a Tichu game using the Python programming language and training of AI algorithms",
     "title2": "Δημιουργία παιχνιδιού Tichu με γλώσσα προγραμματισμού Python και εκπαίδευση ΑΙ αλγορίθμων"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Development of a multi-user board game model 6 nimmt! in Python and implementation of an unsupervised machine learning algorithm for a player AI agent",
     "title2": "Ανάπτυξη μοντέλου επιτραπέζιου παιχνιδιού πολλών χρηστών 6 nimmt! σε Python και υλοποίηση αλγορίθμου τεχνητής νοημοσύνης αυτό-εκμάθησης ενός τεχνητού παίκτη"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "New student guidance app using chatbots and LLMs to answer frequently asked questions",
     "title2": "Εφαρμογή καθοδήγησης νεοεισερχομένων φοιτητών chatbot και webapp που απαντά σε συχνές ερωτήσεις των νέων φοιτητών με LLMs"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Development of strategy game for educational purpose using Unity",
     "title2": "Ανάπτυξη παιχνιδιού στρατηγικής για εκπαιδευτικό σκοπό μέσω Unity"
   },
   {
     "professor": "Metafas, Dimitris",
+    "aliases": [
+      "Μεταφάς, Δημήτρης",
+      "Δημήτρης Μεταφάς",
+      "Dimitris Metafas",
+      "Metafas, Dimitris"
+    ],
     "title": "Design and development of board game software with artificial intelligence integration",
     "title2": "Σχεδιασμός και ανάπτυξη λογισμικού επιτραπέζιου παιχνιδιού με ενσωμάτωση τεχνητής νοημοσύνης"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Development of a software application for electrical grounding resistance calculations in single-layer and multi-layer soils",
     "title2": "Ανάπτυξη εφαρμογής λογισμικού για τη διεξαγωγή υπολογισμών της αντίστασης γείωσης γειωτών σε μονοστρωματικά και πολυστρωματικά εδάφη"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Investigation of the behavior of tower earthing systems of transmission lines under lightning strikes",
     "title2": "Διερεύνηση της συμπεριφοράς των συστημάτων γείωσης των πυλώνων των γραμμών μεταφοράς υπό την επίδραση κεραυνικών πληγμάτων"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Μελέτη και ανάπτυξη πρωτότυπου συστήματος παρακολούθησης λειτουργικών παραμέτρων για διακόπτες υψηλής τάσης με χρήση τεχνολογιών IoT",
     "title2": "Design and development of a prototype operating parameters monitoring system for high voltage switches using IoT technologies"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Parametric analysis of wind farm grounding system",
     "title2": "Παραμετρική ανάλυση συστημάτων γείωσης αιολικού πάρκου"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Modeling and analysis of the transient behavior of substation grounding systems under lightning surge conditions",
     "title2": "Μοντελοποίηση και ανάλυση της μεταβατικής συμπεριφοράς συστημάτων γειώσεων υποσταθμών υπό την επίδραση κεραυνικών υπερτάσεων"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Efficiency optimization of electrohydrodynamic devices",
     "title2": "Βελτιστοποίηση της απόδοσης ηλεκτροϋδροδυναμικών διατάξεων"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Study of the corrosion mechanisms of earthing electrodes in the ground and their effects on earthing systems operation",
     "title2": "Μελέτη των μηχανισμών διάβρωσης ηλεκτροδίων γείωσης εντός του εδάφους και λειτουργικές επιπτώσεις αυτών στην ορθή λειτουργία των γειωτών"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Impact of building automation systems on the energy efficiency of buildings",
     "title2": "Επίδραση της εφαρμογής κτηριακών διατάξεων αυτοματισμού στην ενεργειακή αποδοτικότητα των κτηρίων"
   },
   {
     "professor": "MORONIS, ANTONIOS",
+    "aliases": [
+      "Μορονής, Αντώνιος",
+      "Αντώνιος Μορονής",
+      "ANTONIOS MORONIS",
+      "MORONIS, ANTONIOS"
+    ],
     "title": "Comparative evaluation of dynamic building energy analysis models in relation to the quasi-steady state model according to ΕΝ13790 and the KENAK regulation in Greece",
     "title2": "Συγκριτική αξιολόγηση δυναμικών μοντέλων ενεργειακής ανάλυσης κτηρίων σε σχέση με το μοντέλο ημισταθερής κατάστασης κατά ΕΝ13790 και τον κανονισμό ΚΕΝΑΚ στην Ελλάδα"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Refractometry data analysis in blood serum",
     "title2": "Ανάλυση δεδομένων διαθλασιμετρίας σε δείγματα ορού αίματος"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Analysis of refractometry measurements on water samples",
     "title2": "Ανάλυση μετρήσεων διαθλασιμετρίας σε δείγματα νερού"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Quantum cascade lasers: Theory, configuration and utilization",
     "title2": "Quantum cascade lasers: Από τη θεωρία στην διαμόρφωση και την αξιοποίηση τους"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Design and development of a manual XY translation stage for photonic applications",
     "title2": "Σχεδίαση και ανάπτυξη πλακιδίου χειροκίνητης μετατόπισης ΧΥ για φωτονικές εφαρμογές"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Diffuse reflectance spectroscopy for soil analysis",
     "title2": "Φασματοσκοπία διάχυτης ανάκλασης για την ανάλυση θρεπτικών συστατικών του εδάφους"
   },
   {
     "professor": "MYTILINAIOS, Stylianos A.",
+    "aliases": [
+      "Μυτιληναίος, Στυλιανός Α.",
+      "Στυλιανός Α. Μυτιληναίος",
+      "Stylianos A. MYTILINAIOS",
+      "MYTILINAIOS, Stylianos A."
+    ],
     "title": "Presence and breath detection using microwave radar",
     "title2": "Ανίχνευση παρουσίας και ρυθμού αναπνοής με χρήση μικροκυματικού ραντάρ"
   },
   {
     "professor": "MYTILINAIOS, Stylianos A.",
+    "aliases": [
+      "Μυτιληναίος, Στυλιανός Α.",
+      "Στυλιανός Α. Μυτιληναίος",
+      "Stylianos A. MYTILINAIOS",
+      "MYTILINAIOS, Stylianos A."
+    ],
     "title": "Life detection through foliage using radar and machine learning",
     "title2": "Ανίχνευση ζωής παρουσία φυλλώματος με χρήση ραντάρ και μηχανικής μάθησης"
   },
   {
     "professor": "MYTILINAIOS, Stylianos A.",
+    "aliases": [
+      "Μυτιληναίος, Στυλιανός Α.",
+      "Στυλιανός Α. Μυτιληναίος",
+      "Stylianos A. MYTILINAIOS",
+      "MYTILINAIOS, Stylianos A."
+    ],
     "title": "Radar signal classification using machine learning techniques",
     "title2": "Κατηγοριοποίηση σημάτων ραντάρ με τεχνικές μηχανικής μάθησης"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Μελέτη δικτύων νέας γενιάς και νεφοϋπολογιστικών υποδομών",
     "title2": "A survey on next generation networks and cloud computing"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "A study of vulnerabilities and cyberphysical attacks on biometric and biomedical devices",
     "title2": "Μελέτη ευπαθειών και κυβερνοφυσικών επιθέσεων σε βιοϊατρικές συσκευές και συσκευές βιομετρικών δεδομένων"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Μοντελοποίηση MOSFET ως ψηφιακό δίδυμο και χρήση μοντέλων μηχανικής μάθησης για την εύρεση ρεύματος διαρροής",
     "title2": "MOSFET modelling as a digital twin and use of machine learning models to find  current leakage"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Χρήση μεγάλων γλωσσικών μοντέλων για την υποστήριξη της ανάπτυξης ασφαλούς λογισμικού",
     "title2": "Use of large language models towards in supporting secure software development"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Design and implementation of a chatbot, using AI tools",
     "title2": "Σχεδίαση και υλοποίηση ενός ρομπότ συνομιλίας με χρήση εργαλείων τεχνητής νοημοσύνης"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Μια μελέτη των τεχνολογιών εικονικοποίησης για την υποστήριξη εικονικών εργαστηρίων",
     "title2": "Α study of virtualization technologies for the support of virtual labs"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Σχεδίαση και υλοποίηση μίας εφαρμογής για εξ αποστάσεως συνεργασία με την χρήση έξυπνων γυαλιών",
     "title2": "Design and implementation of a remote collaboration application with the use of smart glasses"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "AI-powered smart glasses for descriptive vision in visually impaired individuals",
     "title2": "Έξυπνα γυαλιά με τεχνητή νοημοσύνη για περιγραφική όραση σε άτομα με προβλήματα όρασης"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Σχεδιασμός και υλοποίηση απτικού γαντιού για χρήση σε προσομοιωτές εικονικής πραγματικότητας",
     "title2": "Design and implementation of a haptic glove for use in virtual reality simulators"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Δικτύωση ορισμένη από λογισμικό και τεχνολογίες εικονικοποίησης δικτυακών λειτουργιών",
     "title2": "Software defined networking and network functions virtualization technologies"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Tools and platforms for autonomous vehicle education",
     "title2": "Εργαλεία και πλατφόρμες εκπαίδευσης στα αυτόνομα οχήματα"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Training students in computer networking, with emphasis on gaining practical experience",
     "title2": "Εκπαίδευση φοιτητών σε θέματα δικτύων υπολογιστών με έμφαση στην απόκτηση πρακτικής εμπειρίας"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Environmental conditions monitoring using mobile sensor nodes",
     "title2": "Υπηρεσία καταγραφής περιβαλλοντικών συνθηκών με κινητούς κόμβους αισθητήρων"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Scenario simulation platform for driver training and evaluation of autonomous driving systems using open source simulation software",
     "title2": "Πλατφόρμα εξομοίωσης σεναρίων για εκπαίδευση οδηγών και αξιολόγηση λειτουργίας αυτόνομων συστημάτων οδήγησης με χρήση ανοικτού λογισμικού εξομοίωσης"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Σχεδιασμός και υλοποίηση πλαισίου αξιολόγησης γνώσεων φοιτητών στο αντικείμενο των δικτύων υπολογιστών",
     "title2": "Design and implementation of knowledge assessment framework in computer networks for university students"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "A mobile phone application in order to reduce the number of fuel consumption in cars",
     "title2": "Εφαρμογή κινητού υπολογισμού για τη μείωση της κατανάλωσης καυσίμου στις μεταφορές"
   },
   {
     "professor": "Patrikakis, Charalampos",
+    "aliases": [
+      "Πατρικάκης, Χαράλαμπος",
+      "Χαράλαμπος Πατρικάκης",
+      "Charalampos Patrikakis",
+      "Patrikakis, Charalampos"
+    ],
     "title": "Indoor people counting with WiFi sensing using machine learning",
     "title2": "Καταμέτρηση αριθμού ατόμων σε εσωτερικό χώρο με χρήση ανίχνευσης WiFi και μηχανικής μάθησης"
   },
   {
     "professor": "Photopoulos, Panagiotis",
+    "aliases": [
+      "Φωτόπουλος, Παναγιώτης",
+      "Παναγιώτης Φωτόπουλος",
+      "Panagiotis Photopoulos",
+      "Photopoulos, Panagiotis"
+    ],
     "title": "Online gaming and society: motivational mechanics and addiction",
     "title2": "Διαδικτυακό παιχνίδι και κοινωνία: παρακινητικοί μηχανισμοί και εξάρτηση"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Model-based design and simulation of a solar tracking system for PV",
     "title2": "Σχεδιασμός και προσομοίωση βάσει τεχνικών μοντελοποίησης συστήματος ηλιακής παρακολούθησης για φωτοβολταϊκά συστήματα"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Research & development of a soil’s digital twin",
     "title2": "Μελέτη & ανάπτυξη ψηφιακού διδύμου εδάφους"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Development and modeling of autonomous UAV system as a digital twin enabler",
     "title2": "Ανάπτυξη και μοντελοποίηση αυτόνομου ΣμΕΑ επιτρέποντας την υλοποίηση ψηφιακού διδύμου"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Indoor positioning systems using Wi-Fi RTT",
     "title2": "Συστήματα εντοπισμού θέσης σε εσωτερικό χώρο με χρήση Wi-Fi RTT"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Overview on state-of-the-art outdoor geolocation technologies",
     "title2": "Επισκόπηση τεχνολογιών αιχμής γεωεντοπισμού σε εξωτερικούς χώρους"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Edge processing for AI-based image recognition",
     "title2": "Αναγνώριση εικόνας βασισμένη σε τεχνητή νοημοσύνη για υπολογισμό στο άκρο"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Analysis and comparison of detection and self - healing methods in SCADA systems under hybrid cyberattacks",
     "title2": "Ανάλυση και σύγκριση μεθόδων ανίχνευσης και αυτόματης αποκατάστασης σε SCADA συστήματα υπό συνδυαστικές κυβερνοεπιθέσεις"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Overview of forest fire detection technologies and a case study with the development of a detection device based on LPWAN technologies",
     "title2": "Επισκόπηση των τεχνολογιών εντοπισμού πυρκαγιών σε δάση και περιπτωσιακή μελέτη με την ανάπτυξη διάταξης ανίχνευσης βασισμένη σε LPWAN τεχνολογίες"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Ευέλικτες, ανοιχτής πηγής αρχιτεκτονικές πυλών δεδομένων για εφαρμογές βιομηχανικού διαδικτύου των πραγμάτων (ΙΙοΤ)",
     "title2": "Versatile, open-source based gateway's architecture for IIoT applications"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Model-based autonomous vehicles design",
     "title2": "Σχεδίαση αυτόνομου οχήματος βασισμένη σε μοντέλα"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Application of IoT, machine learning, and digital twin technologies in precision agriculture: Challenges and opportunities",
     "title2": "Εφαρμογή τεχνολογιών διαδικτύου των πραγμάτων, μηχανικής μάθησης και ψηφιακού διδύμου στην γεωργία ακριβείας: Προκλήσεις και δυνατότητες"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Development and implementation of a wireless dendrometer device",
     "title2": "Ανάπτυξη και υλοποίηση ασύρματης διάταξης δεντρόμετρου"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "Design of an innovative battery management system (BMS) for electric vehicles utilizing AI and IoT technologies",
     "title2": "Σχεδιασμός καινοτόμου battery management system (BMS) για ηλεκτρικά οχήματα με αξιοποίηση τεχνολογιών AI και IoT"
   },
   {
     "professor": "Piromalis, Dimitrios",
+    "aliases": [
+      "Πυρομάλης, Δημήτριος",
+      "Δημήτριος Πυρομάλης",
+      "Dimitrios Piromalis",
+      "Piromalis, Dimitrios"
+    ],
     "title": "System development for finding the percentage of volatile organic compounds in exhaled air with machine learning algorithms for disease detection",
     "title2": "Ανάπτυξη συστήματος εύρεσης ποσοστού πτητικών οργανικών ενώσεων στον εκπνεόμενο αέρα με αλγόριθμους μηχανικής μάθησης για την εξακρίβωση ασθενειών"
   },
   {
     "professor": "Potirakis, Stelios",
+    "aliases": [
+      "Ποτηράκης, Στέλιος",
+      "Στέλιος Ποτηράκης",
+      "Stelios Potirakis",
+      "Potirakis, Stelios"
+    ],
     "title": "Development of an internet/ cloud-computing-based application for the management, processing and representation of telemetry station network data",
     "title2": "Ανάπτυξη εφαρμογής διαχείρισης, επεξεργασίας και αναπαράστασης δεδομένων δικτύου τηλεμετρικών σταθμών με τεχνολογίες διαδικτύου και νεφοϋπολογιστικής"
   },
   {
     "professor": "Potirakis, Stelios",
+    "aliases": [
+      "Ποτηράκης, Στέλιος",
+      "Στέλιος Ποτηράκης",
+      "Stelios Potirakis",
+      "Potirakis, Stelios"
+    ],
     "title": "Single microphone speech enhancement",
     "title2": "Βελτίωση της ομιλίας με χρήση ενός μικροφώνου"
   },
   {
     "professor": "Potirakis, Stelios",
+    "aliases": [
+      "Ποτηράκης, Στέλιος",
+      "Στέλιος Ποτηράκης",
+      "Stelios Potirakis",
+      "Potirakis, Stelios"
+    ],
     "title": "Design, implementation and evaluation of a low-cost sound analyzer based on a single-board computer",
     "title2": "Σχεδίαση, υλοποίηση και αξιολόγηση αναλυτή ήχου χαμηλού κόστους βασισμένου σε υπολογιστή μονής πλακέτας"
   },
   {
     "professor": "Potirakis, Stelios",
+    "aliases": [
+      "Ποτηράκης, Στέλιος",
+      "Στέλιος Ποτηράκης",
+      "Stelios Potirakis",
+      "Potirakis, Stelios"
+    ],
     "title": "Acoustic and electroacoustic design of a conference center's central hall (amphitheatre)",
     "title2": "Ακουστικός και ηλεκτροακουστικός σχεδιασμός κεντρικής αίθουσας συνεδριακού κέντρου (αμφιθέατρο)"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Study and simulation of D.C. microgrids on ships",
     "title2": "Μελέτη και εξομοίωση μικροδικτύων Σ.Ρ. σε πλοία"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Study and analysis on EVs penetration scenarios based in prognostic tools",
     "title2": "Μελέτη και πρόβλεψη της διείσδυσης των ηλεκτρικών οχημάτων στην αγορά της Ευρώπης"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Development of an online tool for calculating the performance of solar thermal systems",
     "title2": "Ανάπτυξη διαδικτυακού εργαλείου υπολογισμού της απόδοσης ηλιοθερμικών συστημάτων"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Impact of fires and smoke on the development and occurrence of short circuits and secondary fires in electricity transmission and distribution networks",
     "title2": "Επίδραση των πυρκαγιών και του καπνού στην ανάπτυξη και εμφάνιση βραχυκυκλωμάτων και δευτερογενών πυρκαγιών σε δίκτυα μεταφοράς και διανομής ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Evaluation of the energy recovery from wastes using life cycle assessment technics",
     "title2": "Αξιολόγηση της ενεργειακής αξιοποίησης αποβλήτων με χρήση τεχνικών ανάλυσης κύκλου ζωής"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Conversion of an existing lignite power plant into a power plant using fuel of municipal  solid waste",
     "title2": "Μετατροπή υφιστάμενου λιγνιτικού σταθμού ηλεκτροπαραγωγής σε σταθμό παραγωγής ηλεκτρικής ενέργειας με χρήση απορριμματογενούς καυσίμου"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Installation and set-up of an analog to digital, high sampling rate measuring system for detecting transient phenomena in high voltage equipment",
     "title2": "Εγκατάσταση, ρύθμιση και θέση σε λειτουργία αναλογικού σε ψηφιακού συστήματος μετρήσεων Η/Υ υψηλής ταχύτητας δειγματοληψίας, για μετρήσεις κρουστικών φαινομένων σε συστήματα υψηλής τάσης"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Investigation of the environmental footprint of medium and high voltage circuit breakers by replacing SF6 with alternative gases",
     "title2": "Διερεύνηση του περιβαλλοντικού αποτυπώματος των διακοπτών μέσης και υψηλής τάσης από την υποκατάσταση του SF6 με εναλλακτικά αέρια"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "The evaluation of power transformer's function 150kV at the Extra High Voltage Centers of the Greek Transmission and Distribution System",
     "title2": "Αξιολόγηση λειτουργικής κατάστασης μετασχηματιστών ισχύος 150kV στα ΚΥΤ του Ελληνικού Συστήματος Μεταφοράς και Διανομής"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Techno-economic study for the utilization of alternative geothermal energy plans using a binary cycle and estimation of reduction of CO2eq emissions",
     "title2": "Τεχνοοικονομική μελέτη αξιοποίησης εναλλακτικών σχεδίων γεωθερμικής ενέργειας με τη χρήση δυαδικού κύκλου και εκτίμηση μείωσης των εκπομπών CO2eq"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Impact assessment of photovoltaic panels with life cycle analysis techniques",
     "title2": "Αξιολόγηση των επιπτώσεων των φωτοβολταϊκών πανέλων με τεχνικές ανάλυσης κύκλου ζωής"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Development and waste management in the EU-27 since 2000 and compliance or not with european legislation",
     "title2": "Εξέλιξη και διαχείριση των αποβλήτων στην Ευρωπαϊκή Ενωση-27 από το 2000 και συμμόρφωση ή μη με την ευρωπαϊκή νομοθεσία"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Use of phase changing materials for thermal energy storage and construction of thermal container for the utilization of latent heat",
     "title2": "Χρήση υλικών αλλαγής φάσης για αποθήκευση θερμικής ενέργειας και κατασκευή θερμοδοχείου για την αξιοποίηση λανθάνουσας θερμότητας"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Climate crisis: Extreme temperature changes and impacts on operation of electricity distribution networks",
     "title2": "Κλιματική κρίση: Ακραίες θερμοκρασιακές μεταβολές και επιπτώσεις στη λειτουργία των δικτύων διανομής ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Eco-design of products. European legislation and practices from 2007 until 2022",
     "title2": "Οικολογικός σχεδιασμός προϊόντων. Ευρωπαϊκή νομοθεσία και πρακτικές από το 2007 έως το 2022"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Analysis and detection of faults in underground and submarine high voltage transmission cables",
     "title2": "Ανάλυση και εντοπισμός σφαλμάτων σε υπόγεια και υποβρύχια καλώδια μεταφοράς υψηλής τάσης"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Current harmonic and supraharmonic measurements on PV installations, and evaluation of results",
     "title2": "Μέτρηση αρμονικών και υπεραρμονικών συνιστωσών ρεύματος σε Φ/Β εγκαταστάσεις και αξιολόγηση αποτελεσμάτων"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Comparison of composting and anaerobic digestion technologies using life cycle analysis techniques focusing in energy and environmental footprint",
     "title2": "Σύγκριση τεχνολογιών κομποστοποίησης και αναερόβιας χώνεψης με τεχνικές ανάλυσης κύκλου ζωής εστιάζοντας στο ενεργειακό και περιβαλλοντικό τους αποτύπωμα"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Εκτίμηση του ενεργειακού και περιβαλλοντικού αποτυπώματος της παγκόσμιας παραγωγής Φ/Β γεννητριών, χρησιμοποιώντας τεχνικές ανάλυσης κύκλου ζωής (LCA)",
     "title2": "Evaluation of the energy and environmental footprint of the global PV module production, using life cycle analysis (LCA)"
   },
   {
     "professor": "Psomopoulos, Constantinos",
+    "aliases": [
+      "Ψωμόπουλος, Κωνσταντίνος",
+      "Κωνσταντίνος Ψωμόπουλος",
+      "Constantinos Psomopoulos",
+      "Psomopoulos, Constantinos"
+    ],
     "title": "Comparison of the environmental cost of vegetable and petroleum transformer insulating oils using the Life Cycle Analysis method",
     "title2": "Σύγκριση του περιβαλλοντικού κόστους των μονωτικών ελαίων μετασχηματιστών φυτικής και πετρελαϊκής προέλευσης με την μέθοδο της Ανάλυσης Κύκλου Ζωής"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Digital processing and neural network classification of images: application to biomedical images",
     "title2": "Ψηφιακή επεξεργασία και κατηγοριοποίηση εικόνων μέσω νευρωνικών δικτύων: εφαρμογή σε βιοϊατρικές εικόνες"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Affective computing and user self-reporting application development for the Moodle e-learning platform",
     "title2": "Συναισθηματική υπολογιστική και ανάπτυξη εφαρμογής αυτοαναφοράς στο σύστημα ηλεκτρονικής μάθησης Moodle"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Event-Related Potentials (ERPs): Recording, analysis and uses",
     "title2": "Event-Related Potentials (ERPs): Καταγραφή, ανάλυση και αξιοποίηση"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Text mining applications in biomedical engineering",
     "title2": "Εξόρυξη κειμένου και εφαρμογές στην βιοϊατρική μηχανική"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Event-Related Potentials (ERPs) and their correlation to cognitive brain activities",
     "title2": "Προκλητά δυναμικά και η συσχέτισή τους με γνωσιακές εγκεφαλικές δραστηριότητες"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Αλγόριθμοι τεχνητής νοημοσύνης στην ψηφιακή επεξεργασία βιοϊατρικών εικόνων",
     "title2": "Artificial intelligence algorithms in the digital processing of biomedical images"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Analysis and classification of electroencephalographic motor imagery signals through deep learning methods",
     "title2": "Ανάλυση και ταξινόμηση ηλεκτροεγκεφαλογραφικών σημάτων κινητικής φαντασίωσης μέσω μεθόδων βαθιάς μάθησης"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Digital processing and segmentation of biomedical images using artificial neural networks",
     "title2": "Ψηφιακή επεξεργασία και κατάτμηση βιοϊατρικών εικόνων με χρήση τεχνητών νευρωνικών δικτύων"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "An educational virtual environment on the operation of  microprocessors",
     "title2": "Εκπαιδευτική εφαρμογή εικονικής πραγματικότητας με αντικείμενο τη λειτουργία των μικροϋπολογιστών"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Text mining and topic modeling algorithms with application to educational evaluation texts",
     "title2": "Αλγόριθμοι εξόρυξης κειμένου και μοντελοποίησης θέματος με εφαρμογή σε κείμενα εκπαιδευτικής αξιολόγησης"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Comparative evaluation of machine learning algorithms on motion imagery problems, for people with disabilities",
     "title2": "Συγκριτική εφαρμογή αλγορίθμων μηχανικής μάθησης σε προβλήματα φαντασίωσης κίνησης, για άτομα με αναπηρίες"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Brain-Computer Interfaces for motor imagery applications",
     "title2": "Διεπαφές εγκεφάλου-υπολογιστή για εφαρμογές κίνησης μέσω εικόνων"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Design and development of an e-learning environment for engineering education in digital signal processing under blended learning",
     "title2": "Σχεδίαση και ανάπτυξη περιβάλλοντος ηλεκτρονικής μάθησης για την εκπαίδευση μηχανικών σε θέματα ψηφιακής επεξεργασίας σήματος στο πλαίσιο της υβριδικής μάθησης"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Biomedical image analysis for breast cancer diagnosis using machine learning algorithms",
     "title2": "Ανάλυση βιοϊατρικών εικόνων για την ανίχνευση καρκίνου του μαστού με χρήση αλγορίθμων μηχανικής μάθησης"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Biomedical engineering and its environmental impact – “Green” biomedical equipment",
     "title2": "Βιοϊατρική τεχνολογία & επιπτώσεις στο περιβάλλον –  «πράσινος» βιοϊατρικός εξοπλισμός"
   },
   {
     "professor": "Rangoussi, Maria",
+    "aliases": [
+      "Ραγκούσση, Μαρία",
+      "Μαρία Ραγκούσση",
+      "Maria Rangoussi",
+      "Rangoussi, Maria"
+    ],
     "title": "Αλγόριθμοι και δομές δεδομένων: Δυναμική οπτικοποίηση λειτουργίας σε προγραμματιστικό περιβάλλον για εκπαιδευτικούς σκοπούς",
     "title2": "Algorithms and data structures: Dynamic visualization of operation in a programming environment for educational purposes"
   },
   {
     "professor": "Sarris, Ioannis",
+    "aliases": [
+      "Σαρρής, Ιωάννης",
+      "Ιωάννης Σαρρής",
+      "Ioannis Sarris",
+      "Sarris, Ioannis"
+    ],
     "title": "Electrical field imaging techniques in arterial aneurysms / narrowing by magnetohydrodynamic methods",
     "title2": "Τεχνικές απεικόνισης ηλεκτρικών πεδίων που προκύπτουν σε ανευρύσματα/ στενώσεις αρτηριών με μεθόδους της μαγνητοϋδροδυναμικής"
   },
   {
     "professor": "savaidis, stylianos",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "stylianos savaidis",
+      "savaidis, stylianos"
+    ],
     "title": "Performance evaluation in mobile communication networks 2G-3G",
     "title2": "Αξιολόγηση επιδόσεων σε δίκτυα κινητών επικοινωνιών 2G-3G"
   },
   {
     "professor": "savaidis, stylianos",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "stylianos savaidis",
+      "savaidis, stylianos"
+    ],
     "title": "1.3 GHZ waveguide microwave pulse compressor with side extraction port",
     "title2": "1.3 GHz κυματοδηγικός μικροκυματικός συμπιεστής με πλευρική θύρα εξαγωγής"
   },
   {
     "professor": "savaidis, stylianos",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "stylianos savaidis",
+      "savaidis, stylianos"
+    ],
     "title": "Electromagnetic immunity of unmanned aerial vehicle: Experimental study in the 200 MHz – 1000 MHz frequency band",
     "title2": "Πειραματική μελέτη ηλεκτρομαγνητικής ατρωσίας μη επανδρωμένων εναέριων οχημάτων στη ζώνη συχνοτήτων 200 MHz – 1000 MHz"
   },
   {
     "professor": "savaidis, stylianos",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "stylianos savaidis",
+      "savaidis, stylianos"
+    ],
     "title": "Measurements in mobile communication networks 2G-3G",
     "title2": "Μετρήσεις σε δίκτυα κινητών επικοινωνιών 2G-3G"
   },
   {
     "professor": "savaidis, stylianos",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "stylianos savaidis",
+      "savaidis, stylianos"
+    ],
     "title": "Simulation studies of high-power microwave devices",
     "title2": "Μελέτες προσομοίωσης μικροκυματικών διατάξεων υψηλής ισχύος"
   },
   {
     "professor": "Simos, Iraklis",
+    "aliases": [
+      "Σίμος, Ηρακλής",
+      "Ηρακλής Σίμος",
+      "Iraklis Simos",
+      "Simos, Iraklis"
+    ],
     "title": "Simulation and analysis of Erbium-doped fiber lasers",
     "title2": "Προσομοίωση και ανάλυση λειτουργίας πηγών laser οπτικών ινών νοθευμένων με Έρβιο"
   },
   {
     "professor": "Stathopoulos, Nikolaos",
+    "aliases": [
+      "Σταθόπουλος, Νικόλαος",
+      "Νικόλαος Σταθόπουλος",
+      "Nikolaos Stathopoulos",
+      "Stathopoulos, Nikolaos"
+    ],
     "title": "Erbium doped fibers and their application in optical amplification",
     "title2": "Οπτικές ίνες νοθευμένες με ιόντα Ερβίου και η εφαρμογή τους στους οπτικούς ενισχυτές"
   },
   {
     "professor": "Stathopoulos, Nikolaos",
+    "aliases": [
+      "Σταθόπουλος, Νικόλαος",
+      "Νικόλαος Σταθόπουλος",
+      "Nikolaos Stathopoulos",
+      "Stathopoulos, Nikolaos"
+    ],
     "title": "Inscription, characterization and the application of FBG sensors in structural health monitoring",
     "title2": "Εγγραφή, χαρακτηρισμός και εφαρμογή αισθητήρων FBG στον έλεγχο δομικών στοιχείων"
   },
   {
     "professor": "Stathopoulos, Nikolaos",
+    "aliases": [
+      "Σταθόπουλος, Νικόλαος",
+      "Νικόλαος Σταθόπουλος",
+      "Nikolaos Stathopoulos",
+      "Stathopoulos, Nikolaos"
+    ],
     "title": "Power detection FBG interrogation techniques",
     "title2": "Τεχνικές ανίχνευσης ισχύος για αισθητήρια οπτικής ίνας FBG"
   },
   {
     "professor": "Stathopoulos, Nikolaos",
+    "aliases": [
+      "Σταθόπουλος, Νικόλαος",
+      "Νικόλαος Σταθόπουλος",
+      "Nikolaos Stathopoulos",
+      "Stathopoulos, Nikolaos"
+    ],
     "title": "Simulation and characterization of different types of non-uniform FBG",
     "title2": "Προσομοίωση και χαρακτηρισμός διαφόρων τύπων μη ομοιόμορφων FBG"
   },
   {
     "professor": "Stathopoulos, Nikolaos",
+    "aliases": [
+      "Σταθόπουλος, Νικόλαος",
+      "Νικόλαος Σταθόπουλος",
+      "Nikolaos Stathopoulos",
+      "Stathopoulos, Nikolaos"
+    ],
     "title": "Development and characterization of a Fiber Laser",
     "title2": "Ανάπτυξη και πειραματικός χαρακτηρισμός Fiber Laser"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Low cost air pollution measuring station",
     "title2": "Σταθμός μέτρησης ατμοσφαιρικής ρύπανσης χαμηλού κόστους"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Non-destructive testing (NDT) on monuments and art. A case study for the “Owl of  Athens\" at Metaxourgio region",
     "title2": "Μη καταστρεπτικοί έλεγχοι σε μνημεία και έργα τέχνης. Η περίπτωση της  “κουκουβάγιας” του Μεταξουργείου"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Ενσωματωμένο σύστημα καταγραφής και απεικόνισης δεδομένων αισθητήρων τάσης",
     "title2": "Embedded system for the recording and visualization of voltage sensor data"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Quantification of salt concentration on structural member of Technopolis using GPR and thermography techniques",
     "title2": "Ποσοτικοποίηση συγκέντρωσης αλάτων σε δομικά μέλη στις καμινάδες της Τεχνόπολης με εφαρμογή των τεχνικών GPR και θερμογραφίας"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Electronic systems for soil nutrients estimation for smart farming applications",
     "title2": "Ηλεκτρονικά συστήματα για την ανίχνευση θρεπτικών συστατικών εδάφους, με εφαρμογή στην εξύπνη γεωργία"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Design and implementation using SDR electromagnetic recording system",
     "title2": "Σχεδίαση και υλοποίηση με χρήση SDR συστήματος καταγραφής ηλεκτρομαγνητικής ρύπανσης"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Operation of multi-vibrators",
     "title2": "Μελέτη λειτουργίας πολυδονητών"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Digital system for bibliography analysis based on Google Scholar source",
     "title2": "Ψηφιακό σύστημα ανάλυσης βιβλιογραφικών δεδομένων από την πηγή Google Scholar"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Design and implementation of a low noise amplifier",
     "title2": "Σχεδιασμός και υλοποίηση ενισχυτή χαμηλού θορύβου"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Design and implementation of a recording and monitoring system of urban noise",
     "title2": "Σχεδίαση και υλοποίηση συστήματος μέτρησης και απεικόνισης ακουστικής ρύπανσης σε αστικό περιβάλλον"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Design and implementation of a recording and monitoring system to evaluate the electromagnetic pollution in urban areas",
     "title2": "Σχεδίαση και υλοποίηση συστήματος μέτρησης και απεικόνισης ηλεκτρομαγνητικής ακτινοβολίας σε ευαίσθητες ζώνες εκπομπής για την μελέτη της ηλεκτρομαγνητικής ρύπανσης σε αστικό περιβάλλον"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Recording and analysis of acoustic and electromagnetic signals in natural and artificial building stones",
     "title2": "Καταγραφή και ανάλυση ακουστικών και ηλεκτρομαγνητικών σημάτων σε φυσικούς και τεχνητούς δομικούς λίθους"
   },
   {
     "professor": "stavrakas, ilias",
+    "aliases": [
+      "Σταβράκας, Ηλίας",
+      "Ηλίας Σταβράκας",
+      "ilias stavrakas",
+      "stavrakas, ilias"
+    ],
     "title": "Electronic system for detecting soil nutrients with a low-cost sensor",
     "title2": "Ηλεκτρονικό σύστημα για την ανίχνευση θρεπτικών συστατικών εδάφους με αισθητήρα χαμηλού κόστους"
   },
   {
     "professor": "Tatlas, Nicolas Alexander",
+    "aliases": [
+      "Τάτλας, Νικόλας Αλέξανδρος",
+      "Νικόλας Αλέξανδρος Τάτλας",
+      "Nicolas Alexander Tatlas",
+      "Tatlas, Nicolas Alexander"
+    ],
     "title": "Support for multi-channel audio in embedded systems using I2S",
     "title2": "Υποστήριξη πολυκάναλου ήχου σε ενσωματωμένα συστήματα με την χρήση του πρωτοκόλλου I2S"
   },
   {
     "professor": "Tatlas, Nicolas Alexander",
+    "aliases": [
+      "Τάτλας, Νικόλας Αλέξανδρος",
+      "Νικόλας Αλέξανδρος Τάτλας",
+      "Nicolas Alexander Tatlas",
+      "Tatlas, Nicolas Alexander"
+    ],
     "title": "Acoustic design of a multi-purpose event space",
     "title2": "Ακουστικός σχεδιασμός χώρου εκδηλώσεων πολλαπλών χρήσεων"
   },
   {
     "professor": "Tatlas, Nicolas Alexander",
+    "aliases": [
+      "Τάτλας, Νικόλας Αλέξανδρος",
+      "Νικόλας Αλέξανδρος Τάτλας",
+      "Nicolas Alexander Tatlas",
+      "Tatlas, Nicolas Alexander"
+    ],
     "title": "Real-time audio signal processing plugin development",
     "title2": "Ανάπτυξη plug-in επεξεργασίας ήχου ηχητικών σημάτων σε πραγματικό χρόνο"
   },
   {
     "professor": "Tatlas, Nicolas Alexander",
+    "aliases": [
+      "Τάτλας, Νικόλας Αλέξανδρος",
+      "Νικόλας Αλέξανδρος Τάτλας",
+      "Nicolas Alexander Tatlas",
+      "Tatlas, Nicolas Alexander"
+    ],
     "title": "Neural network development for the detection of abnormal biological audio signals",
     "title2": "Ανάπτυξη νευρωνικού δικτύου για την ανίχνευση μη φυσιολογικών βιολογικών ηχητικών σημάτων"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Analysis of a chaotic memristor based oscillator",
     "title2": "Ανάλυση χαοτικού ταλαντωτή με χρήση memristor"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Synchronization of chaotic colpitts oscillators",
     "title2": "Συγχρονισμός χαοτικών ταλαντωτών colpitts"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design & construction of a radio receiver based on a microcontroller",
     "title2": "Μελέτη & κατασκευή ραδιοφωνικού δέκτη βασισμένου σε μικροελεγκτή"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "GPS Systems - Software Implementation",
     "title2": "Συστήματα GPS - Λογισμική υλοποίηση"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Multispatial resistivity data measurement and storage system",
     "title2": "Πολυχωρική διάταξη μέτρησης και αποθήκευσης δεδομένων αντίστασης"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "High voltage power supply for Helium-Neon Laser",
     "title2": "Τροφοδοτικό υψηλής τάσης για Laser Ηλίου-Νέον"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Study and development of οbject detection software using Raspberry Pi 4",
     "title2": "Μελέτη και ανάπτυξη λογισμικού ανίχνευσης αντικειμένων με χρήση του Raspberry Pi 4"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Memristor emulator",
     "title2": "Εξομοιωτής memristor"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design of a digital processing system for speech signal enhancement",
     "title2": "Σχεδίαση συστήματος ψηφιακής επεξεργασίας για την βελτίωση σήματος ομιλίας"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design of arithmetic – logic unit using HDL",
     "title2": "Σχεδίαση μονάδας αριθμητικής – λογικής (ALU) σε HDL"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Optimization of pulse width modulation method (PWM) for inverter driving circuit in order to reduce the voltage and current total harmonic distortion (THD)",
     "title2": "Βελτιστοποίηση της μεθόδου διαμόρφωσης του εύρους παλμών (PWM) για την οδήγηση ενός αντιστροφέα (INVERTER) με σκοπό την μείωση της αρμονικής παραμόρφωσης της τάσεως και του ρεύματος της εξόδου"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Smart home: Design & construction in Arduino environment",
     "title2": "Έξυπνο σπίτι: Μελέτη και κατασκευή σε περιβάλλον Arduino"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and construction of a vertical shortwave antenna",
     "title2": "Σχεδίαση και κατασκευή κάθετης κεραίας βραχέων κυμάτων"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and construction of a telecommunication receiver, implemented with software defined radio",
     "title2": "Σχεδιασμός και κατασκευή τηλεπικοινωνιακού δέκτη υλοποιούμενο με λογισμικό (Software Defined Radio)"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Development of an intergraded system for the purpose of recording EM radiation on a wide spectrum  of frequencies",
     "title2": "Ανάπτυξη ενσωματωμένου συστήματος για την καταγραφή ΗΜ ακτινοβολίας σε ευρύ φάσμα  συχνοτήτων"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and construction of passive radar using SDR (Software Defined Radio)",
     "title2": "Σχεδιασμός και κατασκευή παθητικού ραντάρ με χρήση SDR (Software Defined Radio)"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Chaotic oscillators and Memristor simulation",
     "title2": "Χαοτικοί ταλαντωτές και προσομοίωση Memristor"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Passive radar for train position detection",
     "title2": "Παθητικό ραντάρ για τον εντοπισμό θέσης τρένου"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and development of a Rubik’s cube solving system using Arduino and MATLAB",
     "title2": "Ανάπτυξη συστήματος επίλυσης κύβου του Ρούμπικ με χρήση Arduino και MATLAB"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and construction of memristor emulator",
     "title2": "Σχεδιασμός και κατασκευή εξομοιωτή memristor"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Cyberattacks on vulnerable systems: A theoretical approach and practical simulation",
     "title2": "Κυβερνοεπιθέσεις σε ευάλωτα συστήματα: Θεωρητική προσέγγιση και πρακτική προσομοίωση"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Design and implementation of a convolutional neural network for access control based on facial recognition in an embedded system",
     "title2": "Σχεδίαση και υλοποίηση συνελικτικού νευρωνικού δικτύου για έλεγχο πρόσβασης βάσει αναγνώρισης προσώπου σε ενσωματωμένο σύστημα"
   },
   {
     "professor": "Tsakiridis, Odysseus",
+    "aliases": [
+      "Τσακιρίδης, Οδυσσέας",
+      "Οδυσσέας Τσακιρίδης",
+      "Odysseus Tsakiridis",
+      "Tsakiridis, Odysseus"
+    ],
     "title": "Analysis, design, and evaluation of VHF and UHF band antennas",
     "title2": "Μελέτη, σχεδίαση και αξιολόγηση κεραιών ζωνών VHF και UHF"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Optimal techno-economic scenario for the placement of photovoltaics on buildings rooftops",
     "title2": "Εύρεση βέλτιστου τεχνοοικονομικού σεναρίου χωροθέτησης φωτοβολταϊκών σε ταράτσες"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Technical study of a floating photovoltaic power plant in a dam reservoir",
     "title2": "Τεχνική μελέτη πλωτού φωτοβολταϊκού πάρκου σε ταμιευτήρα"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Study of power quality disturbances from pulse loads in power electric systems on ships",
     "title2": "Μελέτη προβλημάτων ποιότητας ισχύος από παλμικά φορτία για συστήματα ηλεκτρικής ενέργειας πλοίων"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Operation principles & simulation for aircraft electrical power systems",
     "title2": "Αρχές λειτουργίας & προσομοίωση συστημάτων ηλεκτρικής ενέργειας αεροσκαφών"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "The impact of seasonal variations in meteorological factors (sunlight, temperature) and daylight duration on the selection of the optimal tilt angle for fixed photovoltaic panels",
     "title2": "Επίδραση εποχιακής μεταβολής μετεωρολογικών παραγόντων (ηλιοφάνειας, θερμοκρασίας) και διάρκειας ημέρας στην επιλογή βέλτιστης γωνίας κλίσης σε σταθερά φωτοβολταϊκά πλαίσια"
   },
   {
     "professor": "Tsekouras, George",
+    "aliases": [
+      "Τσεκούρας, Γεώργιος",
+      "Γεώργιος Τσεκούρας",
+      "George Tsekouras",
+      "Tsekouras, George"
+    ],
     "title": "Design principles for port's power system with cold ironing",
     "title2": "Αρχές διαμόρφωσης συστημάτων ηλεκτρικής ενέργειας λιμένα υπό την απαίτηση ψυχρής εκκίνησης πλοίων"
   },
   {
     "professor": "Tsiakas, Panagiotis",
+    "aliases": [
+      "Τσιάκας, Παναγιώτης",
+      "Παναγιώτης Τσιάκας",
+      "Panagiotis Tsiakas",
+      "Tsiakas, Panagiotis"
+    ],
     "title": "Aero pendulum as an educational tool for PID controllers",
     "title2": "Ελικοφόρο εκκρεμές ως εκπαιδευτικό εργαλείο για PID ελεγκτές"
   },
   {
     "professor": "Tsiakas, Panagiotis",
+    "aliases": [
+      "Τσιάκας, Παναγιώτης",
+      "Παναγιώτης Τσιάκας",
+      "Panagiotis Tsiakas",
+      "Tsiakas, Panagiotis"
+    ],
     "title": "Web application design and development aiming at booking specialized cooking staff",
     "title2": "Σχεδίαση και ανάπτυξη διαδικτυακής εφαρμογής στοχεύοντας στην εύρεση εξειδικευμένου μαγειρικού προσωπικού"
   },
   {
     "professor": "Tsiakas, Panagiotis",
+    "aliases": [
+      "Τσιάκας, Παναγιώτης",
+      "Παναγιώτης Τσιάκας",
+      "Panagiotis Tsiakas",
+      "Tsiakas, Panagiotis"
+    ],
     "title": "Design and implementation of a cloud based low power remote monitoring server for IOT applications",
     "title2": "Σχεδίαση και υλοποίηση εξυπηρετητή απομακρυσμένης παρακολούθησης χαμηλής κατανάλωσης με βάση το υπολογιστικό νέφος για εφαρμογές διαδικτύου των πραγμάτων"
   },
   {
     "professor": "VASSILIADIS, SAVVAS",
+    "aliases": [
+      "Βασιλιάδης, Σάββας",
+      "Σάββας Βασιλιάδης",
+      "SAVVAS VASSILIADIS",
+      "VASSILIADIS, SAVVAS"
+    ],
     "title": "Development of textile measurement systems and data exportation and analysis",
     "title2": "Ανάπτυξη μετρητικών συστημάτων για υφάσματα και εξαγωγή και ανάλυση δεδομένων"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Location study of an interconnected wind farm using the WindFarm software",
     "title2": "Μελέτη χωροθέτησης διασυνδεδεμένου αιολικού πάρκου με χρήση του λογισμικού WindFarm"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Off grid photovoltaic systems with batteries and projects with real market products",
     "title2": "Αυτόνομα φωτοβολταϊκά με μπαταρίες και μελέτες εφαρμογής με πραγματικά προϊόντα της αγοράς"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study on the development of electric vehicle charging stations on Sifnos island",
     "title2": "Μελέτη ανάπτυξης σταθμών φόρτισης ηλεκτρικών οχημάτων στη νήσο Σίφνο"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study on building Z expenditure and energy saving suggestions",
     "title2": "Μελέτη καταναλώσεων κτιρίου Ζ και προτάσεις εξοικονόμησης ενέργειας"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Small wind generators in interconnected or autonomous form",
     "title2": "Μικρές ανεμογεννήτριες σε διασυνδεδεμένη ή αυτόνομη μορφή"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Construction of a small autonomous photovoltaic system charging a battery with mppt algorithm",
     "title2": "Αυτόνομη μικρή φωτοβολταϊκή εγκατάσταση και κατασκευή απλού φορτιστή μπαταρίας με αλγόριθμο mppt"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Energy autonomy and all electric ships systems",
     "title2": "Συστήματα ενεργειακής αυτονομίας πλήρως εξηλεκτρισμένων πλοίων"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Hydrogen conversion and storage technologies using RES",
     "title2": "Τεχνολογίες αποθήκευσης και αποδοτικής μετατροπής του υδρογόνου (H2) ως μέσο αποθήκευσης ενέργειας με χρήση ΑΠΕ"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Formation of a function of minimum annual equivalent construction-operation cost for an autonomous photovoltaic system using batteries",
     "title2": "Σχηματισμός συνάρτησης ελάχιστου ετήσιου ισοδύναμου κόστους κατασκευής-λειτουργίας φωτοβολταϊκού σταθμού σε περίπτωση αυτόνομου συστήματος με χρήση μπαταριών"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Measurements and analysis of power quality problems in tertiary sector buildings",
     "title2": "Μετρήσεις και ανάλυση προβλημάτων ποιότητας ισχύος σε κτίρια του τριτογενή τομέα"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Detailed study and energy yield simulation of a wind park",
     "title2": "Μελέτη χωροθέτησης και ενεργειακής απόδοσης αιολικού πάρκου"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Energy storage via supercapacitors, flow batteries, and magnetic field technologies",
     "title2": "Αποθήκευση ενέργειας μέσω υπερπυκνωτών, συσσωρευτών ροής και τεχνολογιών μαγνητικού πεδίου"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Renewables serving Defense: Study of a defense system power supply  modification, from conventional to hybrid, using the sun as main power  source",
     "title2": "Οι ΑΠΕ στην υπηρεσία της Άμυνας: Μελέτη μετατροπής της τροφοδοσίας ισχύος αμυντικού συστήματος από συμβατική σε υβριδική, με κύρια πηγή ενέργειας τον ήλιο"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study for the installation of charging stations for electric / hybrid vehicles in ports and highways. Case study ports of Aigio, Trizonia and Ag. Nikolaou Doridos",
     "title2": "Μελέτη εγκατάστασης σταθμών φόρτισης ηλεκτροκίνητων / υβριδικών οχημάτων σε λιμένες και αυτοκινητοδρόμους. Case study: λιμένες Αιγίου, Τριζονίων και Αγ. Νικολάου Δωρίδος"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Modeling and monitoring of a smart hybrid system with RES and storage",
     "title2": "Μοντελοποίηση και παρακολούθηση έξυπνου υβριδικού δικτύου με ΑΠΕ και αποθήκευση"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Hybrid vehicles with batteries or fuel cells and design of their simulation model in Matlab / Simulink",
     "title2": "Υβριδικά οχήματα με συσσωρευτές ή fuel cells και σχεδίαση μοντέλου προσομοίωσής τους στο Matlab/Simulink"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Detailed study, energy yield simulation and interconnection of an off-shore wind park in Greece",
     "title2": "Μελέτη χωροθέτησης, ενεργειακής απόδοσης και διασύνδεσης υπεράκτιου αιολικού πάρκου στην Ελλάδα"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Integration of green hydrogen production and storage into smart grid",
     "title2": "Ενσωμάτωση συστημάτων παραγωγής πράσινου υδρογόνου και αποθήκευσης σε έξυπνα δίκτυα"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Case study for the installation of RES and energy storage systems and their interconnection in the electric network",
     "title2": "Μελέτη εγκατάστασης σταθμών Α.Π.Ε. (Φωτοβολταϊκών πάρκων κ.ά.) και συστημάτων αποθήκευσης ενέργειας και διασύνδεσή τους στο δίκτυο ηλεκτρικής ενέργειας"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Second life ev batteries and utilizations on ess for grid support and stabilization",
     "title2": "Έρευνα χρήσης επαναχρησιμοποιούμενων συσσωρευτών ηλεκτρικών αυτοκινήτων για χρήση σε εφαρμογές δικτύου"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Market research of small wind turbines and study of their adaptation to  existing hybrid systems",
     "title2": "Έρευνα αγοράς μικρών Α/Γ και μελέτη προσαρμογής τους σε υφιστάμενα υβριδικά συστήματα"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study of solar thermal systems and simulation of the operation of a solar thermal power plant in the area of Koroni",
     "title2": "Μελέτη ηλιοθερμικών συστημάτων και προσομοίωση λειτουργίας ηλιοθερµικού σταθμού παραγωγής ηλεκτρικής ενέργειας στην περιοχή της Κορώνης"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Green energy development for the island of Serifos",
     "title2": "Πράσινη ενεργειακή ανάπτυξη για το νησί της Σερίφου"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Μελέτη και προσομοίωση εγκατάστασης ασύρματης φόρτισης οχημάτων σε δυναμική φόρτιση",
     "title2": "Study and simulation of wireless vehicle charging installation in dynamic charging"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Recording and confirmation of immigrant reception unit consumption and  investigation of energy coverage solutions with RES systems",
     "title2": "Καταγραφή και επιβεβαίωση καταναλώσεων μονάδας υποδοχής μεταναστών και διερεύνηση λύσεων ενεργειακής κάλυψης με συστήματα Α.Π.Ε."
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Recycling photovoltaic panels and sustainability investigation",
     "title2": "Ανακύκλωση φωτοβολταϊκών πλαισίων και διερεύνηση βιωσιμότητας"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Comparative evaluation of 3 different PV panel types via  PVsyst and 4M softwares",
     "title2": "Συγκριτική αξιολόγηση 3 διαφορετικών τύπων φωτοβολταϊκών πλαισίων μέσω των προγραμμάτων PVsyst και 4M"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "The contribution of new electricity generation technologies to the complete  decarbonisation of Europe in 2050",
     "title2": "Η συμβολή των νέων τεχνολογιών παραγωγής ηλεκτρικής ενέργειας για την πλήρη απανθρακοποίηση της Ευρώπης το 2050"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Energy storage power plants for power grid connection: Site selection parameters, market research and planning",
     "title2": "Σταθμοί συσσώρευσης ηλεκτρικής ενέργειας για σύνδεση στο ηλεκτρικό δίκτυο: Παράμετροι επιλογής θέσης, έρευνα αγοράς και μελέτη"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study & simulation of battery and hydrogen fuel cell hybrid system for grid support",
     "title2": "Μελέτη & προσομοίωση υβριδικού συστήματος μπαταριών και κυψελών καυσίμου υδρογόνου για την υποστήριξη του δικτύου διανομής"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study, simulation, and construction of an electric racing kart with wireless charging",
     "title2": "Μελέτη, προσομοίωση και κατασκευή ηλεκτροκίνητου καρτ αγώνων με ασύρματη φόρτιση"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Design and construction of a prototype experimental device for the study of performance parameters of photovoltaic",
     "title2": "Μελέτη και κατασκευή πρότυπης πειραματικής διάταξης για την μελέτη παραμέτρων απόδοσης φωτοβολταϊκών πλαισίων"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Investigation of various scenarios and their sustainability for the partial or total coverage of the energy needs of Amorgos island by hybrid RES systems",
     "title2": "Μελέτη σεναρίων και εξέταση βιωσιμότητάς τους για την μερική ή ολική κάλυψη των ενεργειακών αναγκών της Ν. Αμοργού από υβριδικά συστήματα ΑΠΕ"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Identification of optimal energy portfolios with the objective of minimizing overall risk",
     "title2": "Εύρεση βέλτιστων ενεργειακών χαρτοφυλακίων με στόχο την ελαχιστοποίηση του συνολικού κινδύνου"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Integration of desalination system and green hydrogen system in small islands",
     "title2": "Ενσωμάτωση συστήματος αφαλάτωσης και πράσινου υδρογόνου σε μικρά νησιά"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study of optimal energy coverage of data centers in microgrid with high RES penetration and SMR unit",
     "title2": "Μελέτη βέλτιστης ενεργειακής κάλυψης των data centers σε μικροδίκτυο με υψηλή διείσδυση ΑΠΕ και μονάδα SMR"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study on different energy pricing policies - The necessity of dynamic pricing and technical analysis of domestic load on real measurements",
     "title2": "Η εξέταση διαφορετικών ενεργειακών τιμολογιακών πολιτικών - Η αναγκαιότητα της δυναμικής τιμολόγησης και της τεχνικής ανάλυσης οικιακού φορτίου βάσει πραγματικών μετρήσεων"
   },
   {
     "professor": "Vokas, Georgios",
+    "aliases": [
+      "Βόκας, Γεώργιος",
+      "Γεώργιος Βόκας",
+      "Georgios Vokas",
+      "Vokas, Georgios"
+    ],
     "title": "Study and optimization of an agrivoltaic system with industrial load and integrated agricultural exploitation",
     "title2": "Μελέτη και βελτιστοποίηση αγροφωτοβολταϊκού συστήματος με βιομηχανικό φορτίο και παράλληλη ενσωμάτωση της γεωργικής εκμετάλλευσης"
   },
   {
     "professor": "Moutzouris, Konstantinos",
+    "aliases": [
+      "Μουτζούρης, Κωνσταντίνος",
+      "Κωνσταντίνος Μουτζούρης",
+      "Konstantinos Moutzouris",
+      "Moutzouris, Konstantinos"
+    ],
     "title": "Ανάπτυξη προηγμένων εργαλείων για φασματοσκοπία φθορισμού σε υπερ-ψυχρά άτομα",
     "title2": "Advanced tools for fluorescence imaging of ultra-cold atoms"
   },
   {
     "professor": "Voudouris, Konstantinos",
+    "aliases": [
+      "Βούδουρης, Κωνσταντίνος",
+      "Κωνσταντίνος Βούδουρης",
+      "Konstantinos Voudouris",
+      "Voudouris, Konstantinos"
+    ],
     "title": "Printed MIMO antennas design for the next-generation wireless networks",
     "title2": "Σχεδίαση εκτυπωμένων κεραιών ΜΙΜΟ κατάλληλων για ασύρματα δίκτυα νέας γενιάς"
   },
   {
     "professor": "Voudouris, Konstantinos",
+    "aliases": [
+      "Βούδουρης, Κωνσταντίνος",
+      "Κωνσταντίνος Βούδουρης",
+      "Konstantinos Voudouris",
+      "Voudouris, Konstantinos"
+    ],
     "title": "Printed MIMO antennas design suitable for autonomous vehicles",
     "title2": "Σχεδίαση εκτυπωμένων κεραιών ΜΙΜΟ καταλλήλων  για αυτοκινούμενα οχήματα"
   },
   {
     "professor": "Voudouris, Konstantinos",
+    "aliases": [
+      "Βούδουρης, Κωνσταντίνος",
+      "Κωνσταντίνος Βούδουρης",
+      "Konstantinos Voudouris",
+      "Voudouris, Konstantinos"
+    ],
     "title": "Dual band microstrip antenna and beam steering network design for 5G systems",
     "title2": "Μελέτη μικροταινιακών κεραιών διπλής ζώνης και σχεδιασμός συστήματος μορφοποίησης δέσμης σε εφαρμογές νέας γενιάς τηλεπικοινωνιακών συστημάτων και τηλεμετρίας"
   },
   {
     "professor": "Voudouris, Konstantinos",
+    "aliases": [
+      "Βούδουρης, Κωνσταντίνος",
+      "Κωνσταντίνος Βούδουρης",
+      "Konstantinos Voudouris",
+      "Voudouris, Konstantinos"
+    ],
     "title": "Printed MIMO antennas design for the next generation wireless network",
     "title2": "Σχεδίαση εκτυπωμένων κεραιών MIMO κατάλληλων για ασύρματα δίκτυα νέας γενιάς"
   },
   {
     "professor": "ZACHARIADOU, KATERINA",
+    "aliases": [
+      "Ζαχαριάδου, Κατερίνα",
+      "Κατερίνα Ζαχαριάδου",
+      "KATERINA ZACHARIADOU",
+      "ZACHARIADOU, KATERINA"
+    ],
     "title": "Εγκατάσταση, ανάπτυξη, αποσφαλμάτωση συστημάτων και ανάλυση δεδομένων του αναβαθμισμένου ανιχνευτή New Small Wheel του πειράματος ATLAS στο CERN",
     "title2": "Installation, development, debugging of systems and data analysis of the upgraded New Small Wheel Detector of the Atlas experiment at CERN"
   },
   {
     "professor": "Zervas, Evangelos",
+    "aliases": [
+      "Ζέρβας, Ευάγγελος",
+      "Ευάγγελος Ζέρβας",
+      "Evangelos Zervas",
+      "Zervas, Evangelos"
+    ],
     "title": "Non linear channel equalization using machine learning techniques",
     "title2": "Εξίσωση μη γραμμικών καναλιών με χρήση τεχνικών μηχανικής μάθησης"
   },
   {
     "professor": "Zervas, Evangelos",
+    "aliases": [
+      "Ζέρβας, Ευάγγελος",
+      "Ευάγγελος Ζέρβας",
+      "Evangelos Zervas",
+      "Zervas, Evangelos"
+    ],
     "title": "Polar codes – Theory, analysis and implementation",
     "title2": "Πολικοί κώδικες – Θεωρία, ανάλυση και υλοποίηση"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Measuring remotely human biometrics signs with a webcam",
     "title2": "Απομακρυσμένη και πολύ-παραμετρική μέτρηση χαρακτηριστικών φυσιολογίας ανθρώπου μέσω webcam"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Μέθοδοι υπολογιστικής όρασης με χρήση μετα-ευρετικών αλγορίθμων βελτιστοποίησης στον χώρο πινάκων συνδιακύμανσης",
     "title2": "Meta-heuristic optimization methods on SPD Manifolds and applications to computer vision"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Generation of synthetic samples for biometric authentication applications in the symmetric positive definite matrices",
     "title2": "Τεχνικές δημιουργίας συνθετικών δεδομένων για βιομετρικές εφαρμογές στον χώρο των συμμετρικών θετικά οριζόμενων πινάκων"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Εφαρμογή μεθόδων υπολογιστικής όρασης στην ανάλυση του περιεχομένου δορυφορικών εικόνων",
     "title2": "Application of computer vision methods for the analysis of satellite images"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Computer vision and pattern recognition techniques for biometric authentication",
     "title2": "Τεχνικές μηχανικής μάθησης και υπολογιστικής όρασης για επεξεργασία χειρόγραφων δειγμάτων με έμφαση στην βιομετρική ταυτοποίηση"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Computer vision algorithms for representatives selection of big data set",
     "title2": "Τεχνικές υπολογιστικής όρασης για την εύρεση αντιπροσώπων από ένα σύνολο δεδομένων"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Development of artificial intelligence algorithm and machine learning model for the detection of breast cancerous forms in ultrasound images of breast.",
     "title2": "Ανάπτυξη αλγορίθμου τεχνητής νοημοσύνης και μοντέλου μηχανικής μάθησης για την ανίχνευση καρκινικών δομών σε εικόνες υπερηχογραφημάτων μαστού"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Robust distance measure for similarity-based classification on the SPD manifold",
     "title2": "Τεχνικές εύρωστης εκμάθησης μετρικών σε χώρους πολλαπλότητας πινάκων συνδιακύμανσης για χρήση σε εφαρμογές ταξινόμησης προτύπων και μηχανικής μάθησης"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "A leap of faith from Euclidean to Riemannian manifolds for computer vision applications",
     "title2": "Από τον Ευκλείδη στον Riemann: Ένα άλμα στην υπολογιστική όραση σε γεωμετρικούς χώρους"
   },
   {
     "professor": "Zois, Elias",
+    "aliases": [
+      "Ζώης, Ηλίας",
+      "Ηλίας Ζώης",
+      "Elias Zois",
+      "Zois, Elias"
+    ],
     "title": "Επιβλεπόμενες και μη επιβλεπόμενες μέθοδοι στην μηχανική μάθηση και την υπολογιστική όραση με χρήση οδηγούμενων από τα δεδομένα λογαριθμικών αποκλίσεων σε χώρους πολλαπλότητας συμμετρικών και θετικά οριζόμενων πινάκων συνδιακύμανσης",
     "title2": "Supervised and unsupervised methods in machine learning and computer vision using data-driven Log-Determinant Divergences in the manifold space of symmetric and positive definite covariance matrices"
   },
   {
-    "professor": "Αγγελή, Χρυσάνθη",
+    "professor": "Angeli, Chrysanthi",
+    "aliases": [
+      "Αγγελή, Χρυσάνθη",
+      "Χρυσάνθη Αγγελή",
+      "Chrysanthi Angeli",
+      "Angeli, Chrysanthi"
+    ],
     "title": "Fault diagnosis and prevention using artificial intelligent techniques",
     "title2": "Διάγνωση και πρόληψη βλαβών με τη χρήση τεχνικών τεχνητής νοημοσύνης"
   },
   {
-    "professor": "Βαρσάμης, Χρήστος-Πλάτων",
+    "professor": "Varsamis, Christos-Platon",
+    "aliases": [
+      "Βαρσάμης, Χρήστος-Πλάτων",
+      "Χρήστος-Πλάτων Βαρσάμης",
+      "Christos-Platon Varsamis",
+      "Varsamis, Christos-Platon"
+    ],
     "title": "Development of an interactive auction application on world wide web compatible with all platforms",
     "title2": "Ανάπτυξη διαδικτυακής εφαρμογής ιστοσελίδας δημοπρασιών στον παγκόσμιο ιστό με δυνατότητα πρόσβασης από σταθερές και κινητές συσκευές"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "DC motor drive with conventional PI and Fuzzy-PI controllers",
     "title2": "Έλεγχος DC κινητήρα με χρήση συμβατικού PI και Fuzzy-PI ελεγκτών"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Control systems for trapezoidal magnetic flux permanent magnet synchronous motors (Brushless DC Motors, BLDC)",
     "title2": "Συστήματα ελέγχου σύγχρονων κινητήρων μόνιμων μαγνητών τραπεζοειδούς μαγνητικής ροής"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Life-cycle assessment of energy and environmental impacts of LED lighting products",
     "title2": "Εκτίμηση κύκλου ζωής των ενεργειακών και περιβαλλοντικών επιπτώσεων των προϊόντων φωτισμού LED"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Communication protocols and lighting control systems",
     "title2": "Πρωτόκολλα επικοινωνίας και συστήματα ελέγχου του φωτισμού"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Design and simulation of passive filters for harmonic limitation in typical industrial installations",
     "title2": "Σχεδιασμός και προσομοίωση παθητικών φίλτρων για τον περιορισμό αρμονικών σε βιομηχανικές εγκαταστάσεις"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Analysis and design of static var compensators",
     "title2": "Ανάλυση και σχεδίαση στατικών αντισταθμιστών άεργου ισχύος"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Solar luminaires in street lighting applications",
     "title2": "Ηλιακά φωτιστικά σε εφαρμογές οδοφωτισμού"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Lighting proposal for the Library building of the Ancient Olive Grove",
     "title2": "Πρόταση φωτισμού για το κτίριο της Βιβλιοθήκης της Πανεπιστημιούπολης του Αρχαίου Ελαιώνα"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "The integrating sphere and its applications in the new era of lighting",
     "title2": "Η ολοκληρώνουσα σφαίρα και οι εφαρμογές της στην νέα εποχή του φωτισμού"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Goniophotometry, theory and practice",
     "title2": "Γωνιοφωτομετρία, θεωρία και πράξη"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "LiFi (Light Fidelity) - Efficient use of visible spectrum",
     "title2": "LiFi (Light Fidelity) - Αποδοτική χρήση του ορατού φάσματος"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Design, analysis and comparative evaluation of a two-switch forward converter applying current-mode controllers: Fuzzy logic controller versus conventional controller",
     "title2": "Σχεδίαση, ανάλυση και συγκριτική αξιολόγηση μετατροπέα Forward δύο διακοπτών, με εφαρμογή ελεγκτών ανατροφοδότησης ρεύματος: Ελεγκτής ασαφούς λογικής έναντι συμβατικού ελεγκτή"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Analysis and design of a Forward DC-DC converter",
     "title2": "Ανάλυση και σχεδίαση DC-DC μετατροπέα Forward με γαλβανική απομόνωση"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Analysis and design of a full-bridge DC-DC converter",
     "title2": "Ανάλυση και σχεδίαση DC-DC μετατροπέα πλήρους γέφυρας"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Analysis and design and simulation of a DC-to-DC Flyback converter",
     "title2": "Σχεδίαση, ανάλυση και προσομοίωση μετατροπέα Flyback για εφαρμογές συνεχούς ρεύματος"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Analysis and design of an Active Clamp Forward DC-DC converter",
     "title2": "Ανάλυση και σχεδίαση ενός Active Clamp Forward DC-DC μετατροπέα"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Regenerative braking in electric motion applications",
     "title2": "Αναγεννητική πέδηση σε εφαρμογές ηλεκτρικής κίνησης"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Commercial lighting",
     "title2": "Φωτισμός επαγγελματικών χώρων"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Lighting systems evaluation using the PROMETHEE method",
     "title2": "Αξιολόγηση συστημάτων φωτισμού με την μέθοδο PROMETHEE"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Evaluation of lighting simulation software",
     "title2": "Αξιολόγηση λογισμικών προσομοίωσης φωτισμού"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Low power electric drive systems using: (a) DC permanent magnet motor and (b) DC motor without coils",
     "title2": "Συστήματα ηλεκτρικής κίνησης χαμηλής ισχύος με χρήση: (α) DC κινητήρα μονίμων μαγνητών και (β) DC κινητήρα χωρίς ψήκτρες"
   },
   {
-    "professor": "Ιωαννίδης, Γεώργιος",
+    "professor": "Ioannidis, Georgios",
+    "aliases": [
+      "Ιωαννίδης, Γεώργιος",
+      "Γεώργιος Ιωαννίδης",
+      "Georgios Ioannidis",
+      "Ioannidis, Georgios"
+    ],
     "title": "Control systems for sinusoidal magnetic flux permanent magnet synchronous motors (PMS Motors)",
     "title2": "Συστήματα ελέγχου σύγχρονων κινητήρων μόνιμων μαγνητών ημιτονοειδούς μαγνητικής ροής"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Diagnosis of induction motor faults using artificial neural networks",
     "title2": "Διάγνωση βλαβών επαγωγικών κινητήρων με εφαρμογή τεχνητών νευρωνικών δικτύων"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and implementation of a smart lithium battery energy management system using Raspberry PI microcomputer",
     "title2": "Μελέτη και υλοποίηση έξυπνου συστήματος διαχείρισης ενέργειας μπαταρίας λιθίου με χρήση μικροϋπολογιστή Raspberry PI"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Energy communities: The role of energy storage and electromobility in sustainable development and economic viability",
     "title2": "Ενεργειακές κοινότητες: Ο ρόλος της αποθήκευσης ενέργειας και της ηλεκτροκίνησης στην αειφόρο ανάπτυξη και την οικονομική βιωσιμότητα"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Study and implementation of a prototype lithium battery management system using a microcomputer",
     "title2": "Μελέτη και υλοποίηση πρότυπου συστήματος διαχείρισης μπαταριών λιθίου με χρήση μικροϋπολογιστή"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and simulation of a 6LoWPAN network",
     "title2": "Μελέτη και προσομοίωση δικτύου 6LoWPAN"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Literature review, comparative analysis and evaluation of SunSpec protocol: Challenges, applications and future work",
     "title2": "Συστηματική ανασκόπηση και συγκριτική ανάλυση και αξιολόγηση του πρωτοκόλλου SunSpec: Προκλήσεις, εφαρμογές και μελλοντική εξέλιξη"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Systematic review, comparative analysis and evaluation of Vehicle-to-Home (V2H) & Vehicle-to-Grid (V2G) technologies in low-voltage networks",
     "title2": "Συστηματική ανασκόπηση και αξιολόγηση των τεχνολογιών Vehicle-to- Home (V2H) & Vehicle-to-Grid (V2G) σε δίκτυα χαμηλής τάσης"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Systematic review, comperative analysis and evaluation of Single Pair Ethernet: challenges, applications and futurework",
     "title2": "Συστηματική ανασκόπηση και αξιολόγηση του Single Pair Ethernet: προκλήσεις, εφαρμογές και μελλοντική του εξέλιξη"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Smart building automation with the application of the KNX protocol",
     "title2": "Κτιριακός αυτοματισμός έξυπνου κτιρίου με εφαρμογή του πρωτοκόλλου ΚΝΧ"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and simulation of a hybrid energy storage system for electric vehicles",
     "title2": "Μελέτη και προσομοίωση υβριδικού συστήματος αποθήκευσης ενέργειας για χρήση στα ηλεκτρικά αυτοκίνητα"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Development of an energy management model based on fuzzy logic",
     "title2": "Ανάπτυξη μοντέλου διαχείρισης ενέργειας ηλεκτρικού αυτοκινήτου με χρήση ασαφούς λογικής"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Detection of power transformer faults through artificial neural networks",
     "title2": "Διάγνωση βλαβών μετασχηματιστών ισχύος μέσω τεχνητών νευρωνικών δικτύων"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and implementation of building energy management system, based on a SunSpec network, with the use of Raspberry Pi",
     "title2": "Μελέτη και υλοποίηση προτύπου συστήματος διαχείρισης ενέργειας έξυπνου σπιτιού βασισμένο στο δίκτυο SunSpec με χρήση μικροϋπολογιστή Raspberry Pi"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and simulation of an EnOcean network",
     "title2": "Μελέτη και προσομοίωση δικτύου EnOcean"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Design and implementation of HAS (Home Automation System) in openHAB environment",
     "title2": "Μελέτη και κατασκευή “έξυπνου σπιτιού” σε περιβάλλον openHAB"
   },
   {
-    "professor": "Καμινάρης, Σταύρος",
+    "professor": "Kaminaris, Stayros",
+    "aliases": [
+      "Καμινάρης, Σταύρος",
+      "Σταύρος Καμινάρης",
+      "Stayros Kaminaris",
+      "Kaminaris, Stayros"
+    ],
     "title": "Open-source platform for building automation (Domoticz environment) as a research tool: Experimental evaluation through  energy management scenarios",
     "title2": "Πλατφόρμα ανοικτού κώδικα για αυτοματισμούς κτιρίων (περιβάλλον Domoticz) ως ερευνητικό εργαλείο: Πειραματική αξιολόγηση μέσω σεναρίων ενεργειακής διαχείρισης"
   },
   {
-    "professor": "Κρυπωτού, Σωτηρία",
+    "professor": "Krypotoy, Sotiria",
+    "aliases": [
+      "Κρυπωτού, Σωτηρία",
+      "Σωτηρία Κρυπωτού",
+      "Sotiria Krypotoy",
+      "Krypotoy, Sotiria"
+    ],
     "title": "Dielectric study of Ionic liquids",
     "title2": "Μελέτη ιοντικών υγρών με την τεχνική διηλεκτρικής φασματοσκοπίας"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Modelling and dynamic analysis of a DC generator with parallel excitation under different operational scenarios",
     "title2": "Μοντελοποίηση και δυναμική ανάλυση γεννήτριας ΣΡ παράλληλης διέγερσης για διάφορα λειτουργικά σενάρια"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Modeling and dynamic analysis of a DC separate excitation motor under different operational scenarios",
     "title2": "Μοντελοποίηση και δυναμική ανάλυση κινητήρα ΣΡ ξένης διέγερσης, για διάφορα λειτουργικά σενάρια"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Load flow analysis in a distribution power system, equipped with an on-load tap-changing transformer under symmetric and asymmetric loading conditions",
     "title2": "Ροή φορτίου σε γραμμή διανομής, που περιλαμβάνει στην αναχώρηση της μετασχηματιστή με σύστημα αλλαγής της σχέσης μεταφοράς υπό φορτίο, για συμμετρική και ασύμμετρη φόρτιση"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Department store substation grounding study",
     "title2": "Μελέτη γείωσης υποσταθμού πολυκαταστήματος"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Fault detection in underground medium-voltage cables",
     "title2": "Εντοπισμός σφαλμάτων σε υπόγεια καλώδια μέσης τάσης"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Modeling and dynamic analysis of a separately excited DC generator under different operating conditions",
     "title2": "Μοντελοποίηση και δυναμική ανάλυση γεννήτριας ΣΡ ξένης διέγερσης για διάφορες συνθήκες φόρτισης"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Analysis of the dynamic behavior of a three-phase transformer under various operating conditions",
     "title2": "Ανάλυση δυναμικής συμπεριφοράς τριφασικού μετασχηματιστή σε διάφορες λειτουργικές καταστάσεις"
   },
   {
-    "professor": "Μαλατέστας, Παντελής",
+    "professor": "Malatestas, Pantelis",
+    "aliases": [
+      "Μαλατέστας, Παντελής",
+      "Παντελής Μαλατέστας",
+      "Pantelis Malatestas",
+      "Malatestas, Pantelis"
+    ],
     "title": "Plugging braking of a direct current (DC) motor with external excitation",
     "title2": "Ακαριαία πέδηση κινητήρα συνεχούς ρεύματος ξένης διέγερσης"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Flood early warning systems",
     "title2": "Συστήματα έγκαιρης προειδοποίησης για πλημμυρικό κίνδυνο"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "DC motor control with DSPs and MCUs: Development of an experimental device for the transformation of a low-cost DC motor to a servo motor with a low-cost MCU",
     "title2": "Τεχνολογίες ελέγχου DC κινητήρων με DSPs και MCUs :  Ανάπτηξη πειραματικής διάταξης μετατροπής  απλού κινητήρα DC χαμηλού κόστους σε  σερβοκινητήρα με την χρήση MCU χαμηλού κόστους"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Modelling and simulation of autonomous aerial vehicles",
     "title2": "Μοντελοποίηση και προσομοίωση αυτόνομων εναέριων οχημάτων"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Study and development of automated plant growth systems based on unmanned aerial vehicles (UAV) and machine learning method",
     "title2": "Μελέτη και ανάπτυξη αυτοματοποιημένων συστημάτων ανάπτυξης φυτών βασισμένων σε μη επανδρωμένα μέσα και μεθοδολογία μηχανικής μάθησης"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Deep learning-based autonomous driving technologies. Implementation of a small-scale autonomous vehicle platform",
     "title2": "Τεχνολογίες αυτόνομης οδήγησης βασισμένες σε βαθιά μάθηση. Υλοποίηση πλατφόρμας αυτόνομου οχήματος μικρής κλίμακας"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Σύγχρονες μέθοδοι βελτιστοποίησης και συντήρησης στην ψηφιακή βιομηχανία: Μεταευρετικοί αλγόριθμοι, προγνωστική ανάλυση και ψηφιακό δίδυμο",
     "title2": "Modern optimization and maintenance methods in the digital industry: Metaheuristic algorithms, predictive analysis, and digital twins"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Development of a secure wireless node for IIoT applications based on LPWAN technologies",
     "title2": "Ανάπτυξη διάταξης ασφαλούς ασύρματου κόμβου για εφαρμογές IIoT βασισμένου σε τεχνολογίες LPWAN"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "State of the art for street lighting based on IoT technologies and LPWAN communication. A case study based on open-source implementation",
     "title2": "Έλεγχος φωτισμού δρόμων βασισμένος σε ΙοΤ τεχνολογίες. Περιπτωσιακή μελέτη διάταξης βασισμένη σε υλοποίηση ανοιχτού κώδικα"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Financial and technical analysis fοr the creatiοn οf technical suppοrt departments fοr electrοnic systems cοmpanies",
     "title2": "Οικονομοτεχνική ανάλυση για τη δημιουργία τμημάτων τεχνικής υποστήριξης εταιρειών ηλεκτρονικών συστημάτων"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Implementation of an autonomous obstacle avoidance vehicle",
     "title2": "Υλοποίηση αυτόνομου οχήματος αποφυγής εμποδίων"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Development of an early warning platform for prevention of forest fires based on IoT technologies",
     "title2": "Ανάπτυξη πλατφόρμας έγκαιρης προειδοποίησης δασικών πυρκαγιών βασισμένη σε τεχνολογία ΙοΤ"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Development of a fire detection platform based on LPWAN networks and  IoT technologies",
     "title2": "Ανάπτυξη διάταξης πυρανίχνευσης βασισμένης σε LPWAN δίκτυα και τεχνολογίες IoT"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Technologies for the analysis of multispectral images with precision agriculture applications",
     "title2": "Τεχνολογίες ανάλυσης πολυφασματικών εικόνων με εφαρμογές στη γεωργία ακριβείας"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Implementation of tiny machine learning models on microcontrollers for the control of a self-balancing robot",
     "title2": "Εφαρμογή μοντέλων μηχανικής μάθησης σε μικροελεγκτές περιορισμένων δυνατοτήτων για τον έλεγχο ενός αυτοϊσορροπούμενου ρομποτικού οχήματος"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Fall detection system for elderly people based on TinyML using deep learning and Internet of Things (IoT) applications",
     "title2": "Σύστημα ανίχνευσης πτώσεων ηλικιωμένων βασισμένο στο TinyML με χρήση Deep Learning και εφαρμογών Internet of Things (IoT)"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Development of a VCSEL Laser driver with a peltier based thermal stability system",
     "title2": "Ανάπτυξη διάταξης οδήγησης LASER τύπου VCSEL με σύστημα θερμικής σταθεροποίησης βασισμένο σε στοιχείο Peltier"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Analysis and optimization of medium voltage network operation with application of the internet of energy (IoE) technologies",
     "title2": "Ανάλυση και βελτιστοποίηση λειτουργίας δικτύων μέσης τάσης με εφαρμογή τεχνολογιών διαδικτύου ενέργειας (ΙοΕ)"
   },
   {
-    "professor": "Παπαγέωργας, Παναγιώτης",
+    "professor": "Papageorgas, Panagiotis",
+    "aliases": [
+      "Παπαγέωργας, Παναγιώτης",
+      "Παναγιώτης Παπαγέωργας",
+      "Panagiotis Papageorgas",
+      "Papageorgas, Panagiotis"
+    ],
     "title": "Simulation of stereoscopic vision model for an autonomous vehicle navigation application and implementation on an open source platform",
     "title2": "Προσομοίωση μοντέλου στερεοσκοπικής όρασης για εφαρμογή αυτόνομης πλοήγησης οχημάτων και υλοποίηση σε πλατφόρμα ανοιχτού κώδικα"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "Μελέτη μιας υπερβολικής κυματικής εξίσωσης σε μη φραγμένα χωρία",
     "title2": "On a hyperbolic wave equation in unbounded domains"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "AI-powered student assistant in the form of a chatbot",
     "title2": "Βοηθός φοιτητή με χρήση τεχνητής νοημοσύνης σε μορφή chatbot"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "Design and implementation of electronic lock, controlled and accessed via RFID / NFC technologies",
     "title2": "Σχεδιασμός και υλοποίηση ηλεκτρονικής κλειδαριάς, πρόσβασης και ελέγχου με τεχνολογίες NFC / RFID"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "Applications of differential equations in electrical circuits and their study using the Laplace transform",
     "title2": "Εφαρμογές διαφορικών εξισώσεων σε ηλεκτρικά κυκλώματα και μελέτη αυτών με χρήση μετασχηματισμού Laplace"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "The Fourier transform and its impact on the analysis of electrical circuit behavior and internal combustion engines",
     "title2": "Ο μετασχηματισμός Fourier και η επίδρασή του στην ανάλυση συμπεριφοράς ηλεκτρικών κυκλωμάτων και μηχανών εσωτερικής καύσης"
   },
   {
-    "professor": "Παπαδόπουλος, Περικλής",
+    "professor": "Papadopoulos, Periklis",
+    "aliases": [
+      "Παπαδόπουλος, Περικλής",
+      "Περικλής Παπαδόπουλος",
+      "Periklis Papadopoulos",
+      "Papadopoulos, Periklis"
+    ],
     "title": "Asymptotic expansion of arithmetic functions with application to analytic number theory",
     "title2": "Ασυμπτωτική συμπεριφορά συνήθων αριθμητικών συναρτήσεων µε εφαρμογές στην θεωρία των αριθμών"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Σχεδίαση/Προσομοίωση μικροηλεκτρονικών κυκλωμάτων με τεχνικές VLSI",
     "title2": "Design/Simulation of microelectronics using VLSI design techniques"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Application of pattern recognition algorithm on the identification of faces from images",
     "title2": "Εφαρμογή αλγορίθμου αναγνώρισης προτύπων σε εικόνες προσώπων"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Analysis and simulation of amplifier electronic circuits with tina software tool",
     "title2": "Ανάλυση και προσομοίωση ηλεκτρονικών κυκλωμάτων ενισχυτών με λογισμικό tina"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Design - simulation of circuits for microelectronic applications for modeling of neuromorphic systems",
     "title2": "Σχεδίαση - προσομοίωση κυκλωμάτων μικροηλεκτρονικών εφαρμογών για μοντελοποίηση νευρομορφικών συστημάτων"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Design techniques and tools for printed circuit boards (PCBs)",
     "title2": "Τεχνικές και εργαλεία σχεδίασης πλακετών τυπωμένων κυκλωμάτων (PCBs)"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "CMOS logic circuit design for power consumption optimization",
     "title2": "Σχεδίαση CMOS κυκλωμάτων λογικής για βελτιστοποίηση κατανάλωσης  ενέργειας"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "Σχεδίαση και προσομοίωση αναλογικών ολοκληρωμένων κυκλωμάτων CMOS δομικών στοιχειών και τελεστικών ενισχύτων",
     "title2": "Design and simulation of CMOS analog IC building blocks and operational amplifiers"
   },
   {
-    "professor": "Πάτσης, Γεώργιος",
+    "professor": "Patsis, Georgios",
+    "aliases": [
+      "Πάτσης, Γεώργιος",
+      "Γεώργιος Πάτσης",
+      "Georgios Patsis",
+      "Patsis, Georgios"
+    ],
     "title": "New tools and developments in citizen’s trading habits",
     "title2": "Νέα εργαλεία και εξελίξεις στις συναλλακτικές συνήθειες των πολιτών"
   },
   {
-    "professor": "Σαρρή, Ελένη",
+    "professor": "Sarri, Eleni",
+    "aliases": [
+      "Σαρρή, Ελένη",
+      "Ελένη Σαρρή",
+      "Eleni Sarri",
+      "Sarri, Eleni"
+    ],
     "title": "Inventory control and human resource management in industrial applications",
     "title2": "Έλεγχος αποθεμάτων και διαχείριση ανθρώπινου δυναμικού σε βιομηχανικές εφαρμογές"
   },
   {
-    "professor": "Σαρρή, Ελένη",
+    "professor": "Sarri, Eleni",
+    "aliases": [
+      "Σαρρή, Ελένη",
+      "Ελένη Σαρρή",
+      "Eleni Sarri",
+      "Sarri, Eleni"
+    ],
     "title": "Μοντελοποίηση και βελτιστοποίηση δυναμικού συστήματος πρόβλεψης παικτικής συμπεριφοράς σε υπηρεσίες παιγνίων",
     "title2": "Modeling and optimization of a dynamic system for forecasting player behavior in game services"
   },
   {
-    "professor": "Σκουρολιάκου, Αικατερίνη",
+    "professor": "Skouroliakou, Aikaterini",
+    "aliases": [
+      "Σκουρολιάκου, Αικατερίνη",
+      "Αικατερίνη Σκουρολιάκου",
+      "Aikaterini Skouroliakou",
+      "Skouroliakou, Aikaterini"
+    ],
     "title": "Lesion finding methods on patients with multiple sclerosis",
     "title2": "Μέθοδοι εύρεσης εστιών απομυελίνωσης σε ασθενείς με πολλαπλή σκλήρυνση"
   },
   {
-    "professor": "MYTILINAIOS, Stylianos ",
+    "professor": "MYTILINAIOS, Stylianos",
+    "aliases": [
+      "Μυτιληναίος, Στυλιανός",
+      "Στυλιανός Μυτιληναίος",
+      "Stylianos MYTILINAIOS",
+      "MYTILINAIOS, Stylianos"
+    ],
     "title": "Design & development of printed circuit board for evaluation and case study of microwave and millimeter transceivers",
     "title2": "Σχεδίαση και ανάπτυξη τυπωμένων κυκλωμάτων αξιολόγησης και περιπτώσεων χρήσης μικροκυματικών και χιλιοστομετρικών πομποδεκτών"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Analysis of electric vehicle operation, charging methods and its impact on modern society",
     "title2": "Ανάλυση λειτουργίας ηλεκτροκίνητου οχήματος, μέθοδοι φόρτισης και οι επιπτώσεις του στην σύγχρονη κοινωνία"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Three-phase induction motor behaviour under unbalanced voltage supply",
     "title2": "Συμπεριφορά τριφασικού κινητήρα επαγωγής υπό συνθήκες ασύμμετρης τάσης τροφοδοσίας"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Study of a synchronous generator",
     "title2": "Μελέτη σύγχρονης γεννήτριας"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Fault analysis of single-phase transformers",
     "title2": "Ανάλυση σφαλμάτων μονοφασικών μετασχηματιστών"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Simulation of three-phase induction motor operation",
     "title2": "Προσομοίωση της λειτουργίας τριφασικού κινητήρα επαγωγής"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Simulation and analysis of electric car permanent magnet synchronous motor in simulink-matlab",
     "title2": "Προσομοίωση και ανάλυση ηλεκτρικού αυτοκινήτου σύγχρονο κινητήρα μονίμων μαγνητών μέσω simulink-matlab"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Fault analysis of single phase induction motors",
     "title2": "Ανάλυση σφαλμάτων μονοφασικών κινητήρων επαγωγής"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Dynamic analysis of electric dc motors",
     "title2": "Δυναμική ανάλυση κινητήρων συνεχούς ρεύματος"
   },
   {
-    "professor": "Συγγερίδου, Ολυμπιάδα",
+    "professor": "Syngeridou, Olympiada",
+    "aliases": [
+      "Συγγερίδου, Ολυμπιάδα",
+      "Ολυμπιάδα Συγγερίδου",
+      "Olympiada Syngeridou",
+      "Syngeridou, Olympiada"
+    ],
     "title": "Control system analysis of electrical machines on ships",
     "title2": "Ανάλυση συστήματος ελέγχου ηλεκτρικών μηχανών σε πλοία"
   },
   {
-    "professor": "Χλούπης, Γεώργιος||Photopoulos, Panagiotis",
+    "professor": "Chloypis, Georgios||Photopoulos, Panagiotis",
+    "aliases": [
+      "Χλούπης, Γεώργιος // Φωτόπουλος, Παναγιώτης",
+      "Χλούπης, Γεώργιος",
+      "Φωτόπουλος, Παναγιώτης",
+      "Γεώργιος Χλούπης // Παναγιώτης Φωτόπουλος",
+      "Γεώργιος Χλούπης",
+      "Παναγιώτης Φωτόπουλος",
+      "Georgios Chloypis || Panagiotis Photopoulos",
+      "Georgios Chloypis",
+      "Panagiotis Photopoulos",
+      "Chloypis, Georgios||Photopoulos, Panagiotis",
+      "Chloypis, Georgios",
+      "Photopoulos, Panagiotis"
+    ],
     "title": "Μηχανική μάθηση για γεωφυσικές εφαρμογές",
     "title2": "Machine learning for geophysical applications"
+  }
+]
   }
 ]
