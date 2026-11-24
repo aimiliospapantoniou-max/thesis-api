@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, Query
 import json
 import re
@@ -22,11 +23,27 @@ def normalize_name(name: str) -> str:
         char for char in name
         if not unicodedata.combining(char)
     )
-    # Treat common separators between co-supervisors as spaces.
     name = name.replace("||", " ").replace("//", " ")
     name = re.sub(r"[^\w\s]", " ", name, flags=re.UNICODE)
     words = name.split()
     return " ".join(sorted(words))
+
+
+def name_matches(requested_name: str, candidate_name: str) -> bool:
+    """Match full names exactly or single-word searches against any name part."""
+    normalized_requested = normalize_name(requested_name)
+    normalized_candidate = normalize_name(candidate_name)
+
+    if normalized_requested == normalized_candidate:
+        return True
+
+    requested_words = normalized_requested.split()
+    candidate_words = normalized_candidate.split()
+
+    if len(requested_words) == 1:
+        return requested_words[0] in candidate_words
+
+    return False
 
 
 @app.get("/")
@@ -48,11 +65,11 @@ def search_theses(professor: str = Query(..., min_length=1)):
         names_to_check = [thesis.get("professor", "")]
         names_to_check.extend(thesis.get("aliases", []))
 
-        # A row may contain more than one supervisor separated by // or ||.
         expanded_names = []
         for name in names_to_check:
             if not isinstance(name, str) or not name.strip():
                 continue
+
             expanded_names.append(name)
             expanded_names.extend(
                 part.strip()
@@ -61,14 +78,17 @@ def search_theses(professor: str = Query(..., min_length=1)):
             )
 
         if any(
-            requested_name == normalize_name(name)
+            name_matches(professor, name)
             for name in expanded_names
         ):
-            # Avoid returning the same row more than once.
-            row_key = (thesis.get("professor"), thesis.get("title"), thesis.get("title2"))
+            row_key = (
+                thesis.get("professor"),
+                thesis.get("title"),
+                thesis.get("title2")
+            )
+
             if row_key not in seen:
                 seen.add(row_key)
-                # Keep internal aliases out of the public API response.
                 results.append({
                     key: value for key, value in thesis.items()
                     if key != "aliases"
@@ -79,3 +99,4 @@ def search_theses(professor: str = Query(..., min_length=1)):
         "total": len(results),
         "results": results
     }
+
